@@ -32,10 +32,14 @@ links = wait.until(EC.presence_of_all_elements_located((By.TAG_NAME, 'a')))
 parte_iniziale = 'https://tv.ipslow.com/tv'
 
 for link in links:
-    href = link.get_attribute('href')
-     if href and not href.startswith('javascript:'):
-      if ( (not href.startswith('javascript:')) and (href.startswith(parte_iniziale) or href.endswith('.m3u8')) ):
-        print(f"{href}") #la print serve per restituire il link
+    try:
+        href = link.get_attribute('href')
+        if href and not href.startswith('javascript:'):
+            if href.startswith(parte_iniziale) or href.endswith('.m3u8'):
+                print(href)  # Stampa il link se soddisfa i criteri
+    except StaleElementReferenceException:
+        print("Elemento non più valido, continuo con il prossimo elemento...")
+        continue
 
 browser.quit()
 time.sleep(1)
