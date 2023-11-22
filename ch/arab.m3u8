@@ -7,7 +7,7 @@ https://manar.live/iptv/tracks-v1a1/mono.m3u8
 https://live.alittihad.tv:444/ittihad/index.m3u8
 
 #EXTINF:-1 tvg-id="al_jadeed" tvg-logo="",Al Jadeed
-https://tv.ipslow.com/tv487_www.elahmad.com_aljadeed/tracks-v1a1/mono.m3u8?token=4b0a7253d194b601da296cfd6e083aa185ae96fd-b111c731e5919e2ad5423f40d5a5fe08-1700696574-1700685774
+https://tv.ipslow.com/tv487_www.elahmad.com_aljadeed/tracks-v1a1/mono.m3u8?token=943e274c7578755ec545172698dd5a5cb365db88-dba24a2308d3fbf019c99989a928fcf2-1700701026-1700690226
 
 #EXTINF:-1 tvg-id="jazeera_arabic" tvg-logo="",Jazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
@@ -16,22 +16,22 @@ https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 
 #EXTINF:-1 tvg-id="lbci" tvg-logo="",LBCI
-https://tv.ipslow.com/tv487_www.elahmad.com_lbc/index.m3u8?token=5e626b0d24e91caab43d42a0ec4481357da9d889-6e921a3f1043c860e3cefb8e2f7aeabe-1700696583-1700685783
+http://
 
 #EXTINF:-1 tvg-id="mayadeen" tvg-logo="",Mayadeen
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b3000000_t64NTQwcA==.m3u8
 
 #EXTINF:-1 tvg-id="mtv" tvg-logo="",MTV
-https://xxx
+https://tv.ipslow.com/tv487_www.elahmad.com_mtv_lebanon/tracks-v1a1/mono.m3u8?token=4f6541ee42d06d04b2d3b1c015bb1b8d4d21e218-e8413b7cb2fd4573897c789de0a2f0f6-1700701036-1700690236
 
 #EXTINF:-1 tvg-id="mustakbal" tvg-logo="",Mustakbal
-https://xxx
+https://tv.ipslow.com/tv487_www.elahmad.com_future/index.m3u8?token=3362343dc09c5da595cc3b93963f8f642ebcdf44-d8e40af964558dd7d5018b601a498edf-1700701041-1700690241
 
 #EXTINF:-1 tvg-id="natgeo" tvg-logo="",National Geographic Abu Dhabi
-https://xxx
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?adtv
 
 #EXTINF:-1 tvg-id="nbn" tvg-logo="",NBN
-https://xxx
+https://tv.ipslow.com/tv487_www.elahmad.com_nbn/index.m3u8?token=fc595f5288c18adb794a6efc8358dbc5c6a4f48f-fc2c522c68c3559caf4290b7f0d4d86d-1700701046-1700690246
 
 #EXTINF:-1 tvg-id="otv" tvg-logo="",OTV
-https://xxx
+https://tv.ipslow.com/tv487_www.elahmad.com_otv_lebanon/index.m3u8?token=ce1f0cb258ed7b239d43d9591e3b5d426c072d74-e584c84a4ebf3f3df95a598fc2d1931d-1700701054-1700690254
