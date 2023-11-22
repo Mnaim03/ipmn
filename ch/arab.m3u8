@@ -22,16 +22,16 @@ https://tv.ipslow.com/tv487_www.elahmad.com_lbc/index.m3u8?token=5e626b0d24e91ca
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b3000000_t64NTQwcA==.m3u8
 
 #EXTINF:-1 tvg-id="mtv" tvg-logo="",MTV
-
+http
 
 #EXTINF:-1 tvg-id="mustakbal" tvg-logo="",Mustakbal
-
+http
 
 #EXTINF:-1 tvg-id="natgeo" tvg-logo="",National Geographic Abu Dhabi
-
+http
 
 #EXTINF:-1 tvg-id="nbn" tvg-logo="",NBN
-
+http
 
 #EXTINF:-1 tvg-id="otv" tvg-logo="",OTV
-
+http
