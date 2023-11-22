@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="mbc1" tvg-logo="",MBC 1
+https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_7.m3u8
+
+#EXTINF:-1 tvg-id="mbc2" tvg-logo="",MBC 2
+https://tv.ipslow.com/tv487_www.elahmad.com_mbc_2/index.m3u8?token=c8aaf109c6eb2d7f1d35585ee747a7938a726cd6-bbe7a6dd1712765dd8b035aa14110f5f-1700696605-1700685805
+
+#EXTINF:-1 tvg-id="mbc3" tvg-logo="",MBC 3
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_9.m3u8
+
+#EXTINF:-1 tvg-id="mbc4" tvg-logo="",MBC 4
+https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
+
+#EXTINF:-1 tvg-id="mbc5" tvg-logo="",MBC 5
+https://shls-masr2-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
+
+#EXTINF:-1 tvg-id="mbc_max" tvg-logo="",MBC MAX
+https://tv.ipslow.com/tv487_www.elahmad.com_mbc_max/index.m3u8?token=96db8434bde917985548c5aff6e08318156212bf-b8a1530f31b5ffa6a4116f062ebbe89a-1700696610-1700685810
+
+#EXTINF:-1 tvg-id="mbc_action" tvg-logo="",MBC Action
+
+
+#EXTINF:-1 tvg-id="mbc_drama" tvg-logo="",MBC Drama
+https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_20.m3u8
+
+#EXTINF:-1 tvg-id="mbc_masr" tvg-logo="",MBC Masr
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_29.m3u8

@@ -1,0 +1,37 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="manar" tvg-logo="",Manar
+https://manar.live/iptv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="al_ittihad" tvg-logo="",Al Ittihad
+https://live.alittihad.tv:444/ittihad/index.m3u8
+
+#EXTINF:-1 tvg-id="al_jadeed" tvg-logo="",Al Jadeed
+https://tv.ipslow.com/tv487_www.elahmad.com_aljadeed/tracks-v1a1/mono.m3u8?token=4b0a7253d194b601da296cfd6e083aa185ae96fd-b111c731e5919e2ad5423f40d5a5fe08-1700696574-1700685774
+
+#EXTINF:-1 tvg-id="jazeera_arabic" tvg-logo="",Jazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+
+#EXTINF:-1 tvg-id="jazeera_live" tvg-logo="",Jazeera Live
+https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
+
+#EXTINF:-1 tvg-id="lbci" tvg-logo="",LBCI
+https://tv.ipslow.com/tv487_www.elahmad.com_lbc/index.m3u8?token=5e626b0d24e91caab43d42a0ec4481357da9d889-6e921a3f1043c860e3cefb8e2f7aeabe-1700696583-1700685783
+
+#EXTINF:-1 tvg-id="mayadeen" tvg-logo="",Mayadeen
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b3000000_t64NTQwcA==.m3u8
+
+#EXTINF:-1 tvg-id="mtv" tvg-logo="",MTV
+
+
+#EXTINF:-1 tvg-id="mustakbal" tvg-logo="",Mustakbal
+
+
+#EXTINF:-1 tvg-id="natgeo" tvg-logo="",National Geographic Abu Dhabi
+
+
+#EXTINF:-1 tvg-id="nbn" tvg-logo="",NBN
+
+
+#EXTINF:-1 tvg-id="otv" tvg-logo="",OTV
+

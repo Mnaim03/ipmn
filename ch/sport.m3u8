@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="bein1" tvg-logo="",beIN 1
+https://stream.ayas.ir/hls2/beinsport1.m3u8
+
+#EXTINF:-1 tvg-id="bein2" tvg-logo="",beIN 2
+https://stream.ayas.ir/hls2/beinsport2.m3u8
+
+#EXTINF:-1 tvg-id="bein3" tvg-logo="",beIN 3
+https://stream.ayas.ir/hls2/beinsport3.m3u8
+
+#EXTINF:-1 tvg-id="bein4" tvg-logo="",beIN 4
+https://stream.ayas.ir/hls2/beinsport4.m3u8
+
+#EXTINF:-1 tvg-id="bein5" tvg-logo="",beIN 5
+https://stream.ayas.ir/hls2/beinsport5.m3u8
+
+#EXTINF:-1 tvg-id="ssc1" tvg-logo="",SSC 1
+https://af.ayassport.ir/hls2/ssc1.m3u8
+
+#EXTINF:-1 tvg-id="ssc2" tvg-logo="",SSC 2
+https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_2.m3u8
