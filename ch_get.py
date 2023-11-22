@@ -33,7 +33,8 @@ parte_iniziale = 'https://tv.ipslow.com/tv'
 
 for link in links:
     href = link.get_attribute('href')
-    if ( (not href.startswith('javascript:')) and (href.startswith(parte_iniziale) or href.endswith('.m3u8')) ):
+     if href and not href.startswith('javascript:'):
+      if ( (not href.startswith('javascript:')) and (href.startswith(parte_iniziale) or href.endswith('.m3u8')) ):
         print(f"{href}") #la print serve per restituire il link
 
 browser.quit()
