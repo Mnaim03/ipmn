@@ -34,7 +34,7 @@ parte_iniziale = 'https://tv.ipslow.com/tv'
 for link in links:
     try:
         href = link.get_attribute('href')
-        if (href is not none) and (not href.startswith('javascript:')):
+        if href and ('javascript:' not in href):
             if href.startswith(parte_iniziale) or href.endswith('.m3u8'):
                 print(href)  # Stampa il link se soddisfa i criteri
     except StaleElementReferenceException:
