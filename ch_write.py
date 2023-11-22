@@ -29,7 +29,7 @@ def replace():
         found_channel = False
 
         for line in lines:
-            if found_channel and line.startswith('http'):
+            if found_channel: #and line.startswith('http')
                 output_file.write(link + '\n')
                 found_channel = False
             else:
