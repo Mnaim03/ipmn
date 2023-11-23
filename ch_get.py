@@ -28,7 +28,6 @@ extension_loaded = wait_extension.until(EC.presence_of_element_located((By.ID, '
 
 wait = WebDriverWait(browser, 20)
 links = wait.until(EC.presence_of_all_elements_located((By.TAG_NAME, 'a')))
-
 parte_iniziale = 'https://tv.ipslow.com/tv'
 
 for link in links:
@@ -41,5 +40,5 @@ for link in links:
         print("Elemento non più valido, continuo con il prossimo elemento...")
         continue
 
+time.sleep(4)
 browser.quit()
-time.sleep(1)

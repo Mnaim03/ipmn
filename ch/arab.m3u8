@@ -7,7 +7,7 @@ https://manar.live/iptv/tracks-v1a1/mono.m3u8
 https://live.alittihad.tv:444/ittihad/index.m3u8
 
 #EXTINF:-1 tvg-id="al_jadeed" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Al_Jadeed.PNG",Al Jadeed
-https://tv.ipslow.com/tv487_www.elahmad.com_aljadeed/index.m3u8?token=1a7eafcc07642cc7d0eddd09e34625fc4d78995b-7b00987e2baff69e6528181255863f75-1700769889-1700759089
+https://tv.ipslow.com/tv487_www.elahmad.com_aljadeed/index.m3u8?token=dd55ec7d1b77503266e1915622b7b4b87fc4e989-ba03a743c95afab0db91fb1031272f7b-1700774072-1700763272
 
 #EXTINF:-1 tvg-id="jazeera_arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0f/Al_Jazeera.svg/1200px-Al_Jazeera.svg.png",Jazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
@@ -16,22 +16,22 @@ https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 
 #EXTINF:-1 tvg-id="lbci" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LBCI_HD_logo.png/640px-LBCI_HD_logo.png",LBCI
-https://tv.ipslow.com/tv487_www.elahmad.com_lbc/index.m3u8?token=a509a861f7ee3fd182d58d1be500838c21461a98-707b37719e79aef475a2b7c65ef31707-1700769895-1700759095
+https://tv.ipslow.com/tv487_www.elahmad.com_lbc/index.m3u8?token=4f168fa424f15e9f9207c018bb7531ac198ad911-3173a45f1a1681e840f2b094623d7524-1700774080-1700763280
 
 #EXTINF:-1 tvg-id="mayadeen" tvg-logo="https://ewsat.com/img/AL_MAYADEEN.png",Mayadeen
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b3000000_t64NTQwcA==.m3u8
 
 #EXTINF:-1 tvg-id="mtv" tvg-logo="https://lebanon.mom-gmr.org/uploads/tx_lfrogmom/media/14023-1409_import.png",MTV
-https://tv.ipslow.com/tv487_www.elahmad.com_mtv_lebanon/index.m3u8?token=83e29eee55030ea70f62419d74bd7e0cb2949549-ac9fd251534275e5d9a991b50dddc467-1700769899-1700759099
+https://tv.ipslow.com/tv487_www.elahmad.com_mtv_lebanon/tracks-v1a1/mono.m3u8?token=f2d8db5da85a44f00c28999b073b5b69e61d4616-cdad9afe2079bdbe353ccd52ee04db9d-1700774087-1700763287
 
 #EXTINF:-1 tvg-id="mustakbal" tvg-logo="https://play-lh.googleusercontent.com/qbh5ly7m0BBY7aY0EyrkGP0tgjvFfu1Edz1u8Xmr0ZWtWAue4m-79i9c1TNfNZVpLA=w240-h480-rw",Mustakbal
-https://tv.ipslow.com/tv487_www.elahmad.com_future/tracks-v1a1/mono.m3u8?token=794e885c1dd1265c1edb4df31dda82c16649a87b-c3ac908529931d7c51bfb69b1cfe6f66-1700769904-1700759104
+https://tv.ipslow.com/tv487_www.elahmad.com_future/index.m3u8?token=30fa1f77f2c1d6f6272748e5ecbface06e627213-d6c98049ab1c34f489262df2a754d13a-1700774095-1700763295
 
 #EXTINF:-1 tvg-id="natgeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Nat_geo_channel_abu_dhabi.png",National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?adtv
 
 #EXTINF:-1 tvg-id="nbn" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/NBN-logo.png",NBN
-https://tv.ipslow.com/tv487_www.elahmad.com_nbn/tracks-v1a1/mono.m3u8?token=29a8691d9758b8bead320fdd77a8e914dc535fea-4ad02f0d4512b0f35d43c387d8c4216a-1700769909-1700759109
+https://tv.ipslow.com/tv487_www.elahmad.com_nbn/index.m3u8?token=66ba7db6e64dddc65794b30fdd062d911779b938-080fce22feadc917dd052edf4e9797fc-1700774105-1700763305
 
 #EXTINF:-1 tvg-id="otv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/OTV_%28logo%29.svg/2560px-OTV_%28logo%29.svg.png",OTV
-https://tv.ipslow.com/tv487_www.elahmad.com_otv_lebanon/index.m3u8?token=05585dace7b5e13d4b0a06db4615b1b9b5aa986c-2232222c05c9357793e208fd5da4c701-1700769914-1700759114
+https://tv.ipslow.com/tv487_www.elahmad.com_otv_lebanon/tracks-v1a1/mono.m3u8?token=5572b406823fcdf58fcd53f9aff00c9a5f304424-d50ed655cb0bc841e10d00baa67ea24c-1700774114-1700763314
