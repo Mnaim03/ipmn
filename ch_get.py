@@ -40,5 +40,5 @@ for link in links:
         print("Elemento non più valido, continuo con il prossimo elemento...")
         continue
 
-time.sleep(4)
+time.sleep(6) #protezione anti ip-ban
 browser.quit()
