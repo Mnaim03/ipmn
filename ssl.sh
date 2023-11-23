@@ -20,8 +20,17 @@ echo "\033[35m########################################\033[0m"
   chmod +x mono.py
   python3 mono.py
   #open -a VLC mono.m3u8
+  echo "\033[32m File mono aggiornato \033[0m"
 
-#LOOP
+echo "" 
+echo "\033[35m########################################\033[0m"
+echo "\033[35m################# GIT ##################\033[0m"
+echo "\033[35m########################################\033[0m"
+
+git commit -m 'Update'
+git push origin master
+echo "\033[32m Commit & Push eseguito \033[0m"
+
 echo ""
 echo "\033[35m########################################\033[0m"
 echo "\033[35m################# STOP #################\033[0m"
