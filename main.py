@@ -57,7 +57,7 @@ def mayadeen():
 def mtv():
   file='ch/arab.m3u8'
   tvgid='mtv' #nome canale
-  stream="https://www.elahmad.com/tv/mtvlebanon.htm" #link pagina da cui estrarre 
+  stream="https://www.elahmad.com/tv/watchtv.php?id=mtv_lebanon" #link pagina da cui estrarre 
   link_m3u8=""
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream ])
 
