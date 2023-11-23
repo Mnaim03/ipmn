@@ -4,7 +4,7 @@
 https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_7.m3u8
 
 #EXTINF:-1 tvg-id="mbc2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png",MBC 2
-https://tv.ipslow.com/tv487_www.elahmad.com_mbc_2/index.m3u8?token=54b2d115874f19c46c9765f137d97d5a1ece01c5-a35c19c50d3dab9d3f15d534cea079a2-1700758048-1700747248
+https://tv.ipslow.com/tv487_www.elahmad.com_mbc_2/index.m3u8?token=ddfe900f554e955eeca50f9fa80b68188df01736-c608b0daa780be06b1cdb0efc6583542-1700758918-1700748118
 
 #EXTINF:-1 tvg-id="mbc3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MBC_3_Transparent_Background_Logo.png/480px-MBC_3_Transparent_Background_Logo.png",MBC 3
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_9.m3u8
@@ -16,10 +16,10 @@ https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/i
 https://shls-masr2-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
 
 #EXTINF:-1 tvg-id="mbc_max" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqpgp00HQDKpw1egtkUVf00fF2oxNYGzAGgox9ZkfMNsTOt2vNoNGenNc1P17R0ClD0VQ1y9rpFiQCrkaa7knYYav_n9DCenskwZgNonT02x5l0J4WCKbLLOsNgbENkaqEyipp1n46vCRZV2MyxgUS-IgukUp9Debrw6WVhRJdfKr9P90hN2Ahrl_T/s600/%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9%20%D9%82%D9%86%D8%A7%D8%A9%20%D8%A7%D9%85%20%D8%A8%D9%89%20%D8%B3%D9%89%20%D9%85%D8%A7%D9%83%D8%B3%20%D8%A8%D8%AB%20%D9%85%D8%A8%D8%A7%D8%B4%D8%B1.png",MBC MAX
-https://tv.ipslow.com/tv487_www.elahmad.com_mbc_max/index.m3u8?token=61eaae4e772fc81db3bc58319fffa8b96988116b-1237c7344dfdd863ab2b6424341eda87-1700758055-1700747255
+https://tv.ipslow.com/tv487_www.elahmad.com_mbc_max/index.m3u8?token=c8a1e4200c9715619f3572693026b36ed4407fbc-6caa03e759e6abb8cd5273211248e53b-1700758924-1700748124
 
 #EXTINF:-1 tvg-id="mbc_action" tvg-logo="https://iconape.com/wp-content/png_logo_vector/%D8%B4%D8%B9%D8%A7%D8%B1-mbc-action.png",MBC Action
-https://tv.ipslow.com/tv487_www.elahmad.com_mbc_action/index.m3u8?token=55a8c83ba2c263358b92c5a5f8b3518fe17f0502-e537cadc0fe6e23a2ea641e14e9cba6d-1700758062-1700747262
+https://tv.ipslow.com/tv487_www.elahmad.com_mbc_action/index.m3u8?token=fed02f12eaa1e76f5ab4d80c1bc4227aa3a88390-882033f32d5fba6d47c5497969d43905-1700758931-1700748131
 
 #EXTINF:-1 tvg-id="mbc_drama" tvg-logo="https://seeklogo.com/images/M/mbc-drama-logo-2EE963647C-seeklogo.com.png",MBC Drama
 https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_20.m3u8
