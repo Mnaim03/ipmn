@@ -36,7 +36,6 @@ https://tv.ipslow.com/tv487_www.elahmad.com_nbn/index.m3u8?token=8dac0b5184bd906
 #EXTINF:-1 tvg-id="otv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/OTV_%28logo%29.svg/2560px-OTV_%28logo%29.svg.png",OTV
 https://tv.ipslow.com/tv487_www.elahmad.com_otv_lebanon/index.m3u8?token=6d6bec946af6c45992122d8424786feaf1d376d6-33e0f9dec04f656c6878f7279507e50e-1700742596-1700731796
 
-#EXTM3U
 
 #EXTINF:-1 tvg-id="mbc1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/640px-Mbc1logo.png",MBC 1
 https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_7.m3u8
@@ -65,8 +64,6 @@ https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index
 #EXTINF:-1 tvg-id="mbc_masr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png",MBC Masr
 https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_29.m3u8
 
-#EXTM3U
-
 #EXTINF:-1 tvg-id="bein1" tvg-logo="https://seeklogo.com/images/B/bein-sport-logo-DDEBCC17B3-seeklogo.com.png",beIN 1
 https://stream.ayas.ir/hls2/beinsport1.m3u8
 
@@ -87,8 +84,6 @@ https://af.ayassport.ir/hls2/ssc1.m3u8
 
 #EXTINF:-1 tvg-id="ssc2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",SSC 2
 https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_2.m3u8
-
-#EXTM3U
 
 #EXTINF:-1 tvg-id="cinema" tvg-logo="https://www.ethnicchannels.com/images/channeldetail/rotana-aflam/rotana-aflam.png",Rotana Cinema
 https://daiconnect.com/live/hls/rotana/cinema-ksa/088fc425900dc92b37981c5043d969dd/.m3u8?requestuid=c70abcb5-64bb-4596-9d36-9f8c25032fe4
