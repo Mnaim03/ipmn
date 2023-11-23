@@ -35,7 +35,7 @@ for link in links:
     try:
         href = link.get_attribute('href')
         if href and ('javascript:' not in href):
-            if href.startswith(parte_iniziale) or href.endswith('.m3u8'):
+            if href.startswith(parte_iniziale) or href.endswith('.m3u8') or href.startswith('https://playback2.akamaized'):
                 print(href)  # Stampa il link se soddisfa i criteri
     except StaleElementReferenceException:
         print("Elemento non più valido, continuo con il prossimo elemento...")
