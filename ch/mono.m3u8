@@ -1,13 +1,101 @@
 #EXTM3U
 
-#EXTINF:-1, ARAB
-https://raw.githubusercontent.com/Mnaim03/ipmn/main/ch/arab.m3u8
+#EXTINF:-1 tvg-id="manar" tvg-logo="",Manar
+https://manar.live/iptv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, MBC
-https://raw.githubusercontent.com/Mnaim03/ipmn/main/ch/mbc.m3u8
+#EXTINF:-1 tvg-id="al_ittihad" tvg-logo="",Al Ittihad
+https://live.alittihad.tv:444/ittihad/index.m3u8
 
-#EXTINF:-1, ROTANA
-https://raw.githubusercontent.com/Mnaim03/ipmn/main/ch/rotana.m3u8
+#EXTINF:-1 tvg-id="al_jadeed" tvg-logo="",Al Jadeed
+https://tv.ipslow.com/tv487_www.elahmad.com_aljadeed/index.m3u8?token=5b7a551dc9f419e1aac83e88146bdc966e3c5c01-49d08347d7b917225aedf2e6120ec45a-1700737615-1700726815
 
-#EXTINF:-1, SPORT
-https://raw.githubusercontent.com/Mnaim03/ipmn/main/ch/sport.m3u8
+#EXTINF:-1 tvg-id="jazeera_arabic" tvg-logo="",Jazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+
+#EXTINF:-1 tvg-id="jazeera_live" tvg-logo="",Jazeera Live
+https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
+
+#EXTINF:-1 tvg-id="lbci" tvg-logo="",LBCI
+https://tv.ipslow.com/tv487_www.elahmad.com_lbc/index.m3u8?token=d6752c6a0f5719e27be0708cbe05b2f00021047c-32d0a8051407dea17d9afc439febc550-1700737621-1700726821
+
+#EXTINF:-1 tvg-id="mayadeen" tvg-logo="",Mayadeen
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b3000000_t64NTQwcA==.m3u8
+
+#EXTINF:-1 tvg-id="mtv" tvg-logo="",MTV
+https://tv.ipslow.com/tv487_www.elahmad.com_mtv_lebanon/index.m3u8?token=4b3f20e54b9500cc6467c09989a7a9a6da46a084-1cc3e103dfb9b9a1b1ca1e4979c9dcbd-1700737626-1700726826
+
+#EXTINF:-1 tvg-id="mustakbal" tvg-logo="",Mustakbal
+https://tv.ipslow.com/tv487_www.elahmad.com_future/index.m3u8?token=89d38f04418054f2619733b4dd2eae64016fbc32-64525995580301c0f7af74c7b696caa3-1700737631-1700726831
+
+#EXTINF:-1 tvg-id="natgeo" tvg-logo="",National Geographic Abu Dhabi
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?adtv
+
+#EXTINF:-1 tvg-id="nbn" tvg-logo="",NBN
+https://tv.ipslow.com/tv487_www.elahmad.com_nbn/tracks-v1a1/mono.m3u8?token=fbf914a7bf0be5c383169df22d5c758bc87f9196-22140ad94b2ab43bab09c820ef5311e9-1700737637-1700726837
+
+#EXTINF:-1 tvg-id="otv" tvg-logo="",OTV
+https://tv.ipslow.com/tv487_www.elahmad.com_otv_lebanon/index.m3u8?token=54acea25697db77084e5ccfef6d2200bbab65d5c-07b32c368383fb356d29038ba0484ca1-1700737642-1700726842
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="mbc1" tvg-logo="",MBC 1
+https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_7.m3u8
+
+#EXTINF:-1 tvg-id="mbc2" tvg-logo="",MBC 2
+https://tv.ipslow.com/tv487_www.elahmad.com_mbc_2/tracks-v1a1/mono.m3u8?token=8c95fcc90d257fca4e2a5f98d9df889a6e85be8b-7f652c75e0d45f2fdbc0f51a49973b04-1700737647-1700726847
+
+#EXTINF:-1 tvg-id="mbc3" tvg-logo="",MBC 3
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_9.m3u8
+
+#EXTINF:-1 tvg-id="mbc4" tvg-logo="",MBC 4
+https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
+
+#EXTINF:-1 tvg-id="mbc5" tvg-logo="",MBC 5
+https://shls-masr2-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
+
+#EXTINF:-1 tvg-id="mbc_max" tvg-logo="",MBC MAX
+https://tv.ipslow.com/tv487_www.elahmad.com_mbc_max/tracks-v1a1/mono.m3u8?token=9861d5d34b0ed8ac3473cf66f7826bf47ff28c7a-6ab447bd3af94a2bce0232dcb7fdf137-1700737652-1700726852
+
+#EXTINF:-1 tvg-id="mbc_action" tvg-logo="",MBC Action
+https://tv.ipslow.com/tv487_www.elahmad.com_mbc_action/tracks-v1a1/mono.m3u8?token=aa53076e47e60b296543a6d9f182c02c7d6ae088-dfc5db465684ec9c7494cc1241dd2254-1700737659-1700726859
+
+#EXTINF:-1 tvg-id="mbc_drama" tvg-logo="",MBC Drama
+https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_20.m3u8
+
+#EXTINF:-1 tvg-id="mbc_masr" tvg-logo="",MBC Masr
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_29.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="bein1" tvg-logo="",beIN 1
+https://stream.ayas.ir/hls2/beinsport1.m3u8
+
+#EXTINF:-1 tvg-id="bein2" tvg-logo="",beIN 2
+https://stream.ayas.ir/hls2/beinsport2.m3u8
+
+#EXTINF:-1 tvg-id="bein3" tvg-logo="",beIN 3
+https://stream.ayas.ir/hls2/beinsport3.m3u8
+
+#EXTINF:-1 tvg-id="bein4" tvg-logo="",beIN 4
+https://stream.ayas.ir/hls2/beinsport4.m3u8
+
+#EXTINF:-1 tvg-id="bein5" tvg-logo="",beIN 5
+https://stream.ayas.ir/hls2/beinsport5.m3u8
+
+#EXTINF:-1 tvg-id="ssc1" tvg-logo="",SSC 1
+https://af.ayassport.ir/hls2/ssc1.m3u8
+
+#EXTINF:-1 tvg-id="ssc2" tvg-logo="",SSC 2
+https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_2.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="cinema" tvg-logo="",Rotana Cinema
+https://daiconnect.com/live/hls/rotana/cinema-ksa/088fc425900dc92b37981c5043d969dd/.m3u8?requestuid=c70abcb5-64bb-4596-9d36-9f8c25032fe4
+
+#EXTINF:-1 tvg-id="aflam+" tvg-logo="",Rotana Aflam+
+https://playback2.akamaized.net/streams/29325975_9091664_lsi1ub7ldktnbz3qspe_1/exp=1700771260~acl=%2f*~data=hdntl~hmac=607ec0278fa72a4edc758c40b08f3a7422ea8770ef3ee2fea688ec39d54f5b0b/media/29325975_9091664_lsi1ub7ldktnbz3qspe_1@5256000p.m3u8?dw=80&ts=1700683200
+
+#EXTINF:-1 tvg-id="comedy" tvg-logo="",Rotana Comedy
+https://rotanastudios-rotanacomedy-1-eu.xiaomi.wurl.tv/8b19722f7772362323148961d5a4c446.m3u8
+
