@@ -14,10 +14,14 @@ echo " "
 echo "AVVIO $tvg_id"
 
 if [ -z "$link_m3u8" ]; then
-  #do i permessi al driver chrome
-  echo -e "\033[33m! cerco m3u8 $tvg_id \033[0m"
-  chmod +x ch_get.py 
-  link_m3u8=$(python3 ch_get.py "$stream")
+  while [ -z "$link_m3u8" ]; do 
+
+    #do i permessi al driver chrome
+    echo -e "\033[33m! cerco m3u8 $tvg_id \033[0m"
+    chmod +x ch_get.py 
+    link_m3u8=$(python3 ch_get.py "$stream")
+  
+  done
 else
   echo -e "\033[32m! m3u8 pre-inserito \033[0m"
 fi
