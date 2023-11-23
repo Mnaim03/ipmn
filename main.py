@@ -212,7 +212,7 @@ def aflam():
   file='ch/rotana.m3u8'
   tvgid='aflam+' #nome canale
   stream="https://www.elahmad.com/tv/live/live_stream.php?id=rotana_aflam_plus" #link pagina da cui estrarre 
-  link_m3u8="https://playback2.akamaized.net/streams/29325975_9091664_lsi1ub7ldktnbz3qspe_1/exp=1700771260~acl=%2f*~data=hdntl~hmac=607ec0278fa72a4edc758c40b08f3a7422ea8770ef3ee2fea688ec39d54f5b0b/media/29325975_9091664_lsi1ub7ldktnbz3qspe_1@5256000p.m3u8?dw=80&ts=1700683200"
+  link_m3u8=""
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream ])
 
 def comedy():
