@@ -10,10 +10,11 @@ echo "\033[35m########################################\033[0m"
   chmod +x ch_call.sh #do i permessi al file bash che chiama ch_get e ch_write
   python3 main.py 
  
-  #cd /Users/mohamadnaim/Documents/pyreq/ch
+  cd /Users/mohamadnaim/Documents/pyreq/ch
   #open -a VLC mono.m3u8
 
 #SAVE
+ffmpeg -i "contact:arab.m3u8|mbc.m3u8|sport.m3u8|rotana.m3u8" -c copy mono.m3u8
 
 #LOOP
 echo ""
