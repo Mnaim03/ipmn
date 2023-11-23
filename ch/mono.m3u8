@@ -1,14 +1,13 @@
 #EXTM3U
-#EXT-X-VERSION:3
 
-#EXT-X-STREAM-INF: 
+#EXTINF:-1, ARAB
 https://raw.githubusercontent.com/Mnaim03/ipmn/main/ch/arab.m3u8
 
-#EXT-X-STREAM-INF: 
+#EXTINF:-1, MBC
 https://raw.githubusercontent.com/Mnaim03/ipmn/main/ch/mbc.m3u8
 
-#EXT-X-STREAM-INF: 
+#EXTINF:-1, ROTANA
 https://raw.githubusercontent.com/Mnaim03/ipmn/main/ch/rotana.m3u8
 
-#EXT-X-STREAM-INF: 
+#EXTINF:-1, SPORT
 https://raw.githubusercontent.com/Mnaim03/ipmn/main/ch/sport.m3u8
