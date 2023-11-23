@@ -15,17 +15,20 @@ echo ""
 echo "\033[35m########################################\033[0m"
 echo "\033[35m################# SAVE #################\033[0m"
 echo "\033[35m########################################\033[0m"
+
  #SAVE
   cd /Users/mohamadnaim/Documents/pyreq
   chmod +x mono.py
   python3 mono.py
   #open -a VLC mono.m3u8
   echo "\033[32m File mono aggiornato \033[0m"
+
 echo "" 
 echo "\033[35m########################################\033[0m"
 echo "\033[35m################# GIT ##################\033[0m"
 echo "\033[35m########################################\033[0m"
 
+#gh
 git add ./*
 git commit -m 'Update'
 git push
