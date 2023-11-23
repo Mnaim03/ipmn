@@ -28,7 +28,7 @@ echo "\033[35m########################################\033[0m"
 
 git add ./*
 git commit -m 'Update'
-git push origin master
+git push
 echo "\033[32m Commit & Push eseguito \033[0m"
 
 echo ""
