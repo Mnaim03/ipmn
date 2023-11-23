@@ -63,6 +63,7 @@ echo -e "\033[35m################# GIT ##################\033[0m"
 echo -e "\033[35m########################################\033[0m"
 
 #installa gh
+#git pull #si prende i file modificati più recenti
 git add ./*
 git commit -m 'Update'
 git push
