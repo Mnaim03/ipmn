@@ -37,7 +37,7 @@ echo -e "\033[35m########################################\033[0m"
 echo ""
 
 git pull 
-echo "\033[32m Pull eseguita correttamente. \033[0m"
+echo -e "\033[32m Pull eseguita correttamente. \033[0m"
 
 echo ""
 echo -e "\033[35m########################################\033[0m"
@@ -61,7 +61,7 @@ echo -e "\033[35m########################################\033[0m"
   chmod +x mono.py
   python3 mono.py
   #open -a VLC mono.m3u8
-  echo "\033[32m File mono aggiornato \033[0m"
+  echo -e "\033[32m File mono aggiornato \033[0m"
 
 clear
 
@@ -75,7 +75,7 @@ echo -e "\033[35m########################################\033[0m"
 git add ./*
 git commit -m 'Update'
 git push
-echo "\033[32m Commit & Push eseguito \033[0m"
+echo -e "\033[32m Commit & Push eseguito \033[0m"
 
 echo ""
 echo -e "\033[35m########################################\033[0m"
