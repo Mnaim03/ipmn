@@ -24,7 +24,7 @@ do
         fi
     done
 
-    echo -e "\e[31mConnessione NON stabile\e[0m"
+    echo -e "\e[31m !!! Connessione NON stabile !!! \e[0m"
     # Aggiungi un ritardo prima di tentare nuovamente la connessione
     sleep 5  # Ritardo di 5 secondi (modificabile)
 done
