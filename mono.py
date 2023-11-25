@@ -37,7 +37,7 @@ def add_live(destination_file):
     
 
 # Lista dei file sorgente da unire
-source_files = ['ch/arab.m3u8', 'ch/mbc.m3u8', 'ch/sport.m3u8', 'ch/rotana.m3u8']
+source_files = ['ch/arab.m3u8', 'ch/mbc.m3u8', 'ch/sport.m3u8', 'ch/rotana.m3u8', 'ch/film.m3u8']
 
 # File destinazione dove verranno uniti i contenuti dei file sorgente
 destination_file = 'ch/mono.m3u8'
