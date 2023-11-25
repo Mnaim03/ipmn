@@ -15,6 +15,8 @@ echo "AVVIO $tvg_id"
 
 if [ -z "$link_m3u8" ]; then
   while [ -z "$link_m3u8" ]; do 
+    #verifico connessione
+    ./ping.sh
 
     #do i permessi al driver chrome
     echo -e "\033[33m! cerco m3u8 $tvg_id \033[0m"

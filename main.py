@@ -22,7 +22,7 @@ def alittihad():
 def aljadeed():
   file='ch/arab.m3u8'
   tvgid='al_jadeed' #nome canale
-  stream="https://www.elahmad.com/tv/mobiletv/glarb.php?id=aljadeed1" #link pagina da cui estrarre 
+  stream="http://www.elahmad.com/tv/newtv.php" #link pagina da cui estrarre 
   link_m3u8=""
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream ])
 
@@ -57,7 +57,7 @@ def mayadeen():
 def mtv():
   file='ch/arab.m3u8'
   tvgid='mtv' #nome canale
-  stream="https://www.elahmad.com/tv/watchtv.php?id=mtv_lebanon" #link pagina da cui estrarre 
+  stream="https://www.elahmad.com/tv/mtvlebanon.htm" #link pagina da cui estrarre 
   link_m3u8=""
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream ])
 
@@ -88,6 +88,8 @@ def otv():
   stream="https://www.elahmad.com/tv/mobiletv/glarb.php?id=otv_lb1" #link pagina da cui estrarre 
   link_m3u8=""
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream ])
+
+
 
 def mbc1():
   file='ch/mbc.m3u8'
@@ -152,6 +154,8 @@ def mbcmasr():
   link_m3u8="https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_29.m3u8"
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream ])
 
+
+
 def bein1():
   file='ch/sport.m3u8'
   tvgid='bein1' #nome canale
@@ -200,6 +204,22 @@ def ssc2():
   stream="https://www.elahmad.com/tv/mobiletv/glarb.php?id=ssc_sports_2" #link pagina da cui estrarre 
   link_m3u8=""
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream ])
+
+def ads1():
+  file='ch/sport.m3u8'
+  tvgid='ads1' #nome canale
+  stream="https://www.elahmad.com/tv/mobiletv/glarb.php?id=abudhabi_sports1" #link pagina da cui estrarre 
+  link_m3u8=""
+  subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream ])
+
+def ads2():
+  file='ch/sport.m3u8'
+  tvgid='ads2' #nome canale
+  stream="https://www.elahmad.com/tv/mobiletv/glarb.php?id=abudhabi_sports2" #link pagina da cui estrarre 
+  link_m3u8=""
+  subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream ])
+
+
 
 def cinema():
   file='ch/rotana.m3u8'
@@ -254,6 +274,8 @@ bein4()
 bein5()
 ssc1()
 ssc2()
+ads1()
+ads2()
 
 cinema()
 aflam()
