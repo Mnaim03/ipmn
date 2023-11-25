@@ -22,7 +22,7 @@ def alittihad():
 def aljadeed():
   file='ch/arab.m3u8'
   tvgid='al_jadeed' #nome canale
-  stream="http://www.elahmad.com/tv/newtv.php" #link pagina da cui estrarre 
+  stream="https://www.elahmad.com/tv/mobiletv/glarb.php?id=aljadeed1" #link pagina da cui estrarre 
   link_m3u8=""
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream ])
 
