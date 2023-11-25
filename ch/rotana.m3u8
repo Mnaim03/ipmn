@@ -4,7 +4,7 @@
 https://daiconnect.com/live/hls/rotana/cinema-ksa/088fc425900dc92b37981c5043d969dd/.m3u8?requestuid=c70abcb5-64bb-4596-9d36-9f8c25032fe4
 
 #EXTINF:-2 tvg-id="aflam+" tvg-logo="https://www.ethnicchannels.com/images/channeldetail/rotana-aflam/rotana-aflam.png",Rotana Aflam+
-https://playback2.akamaized.net/streams/29325975_9091664_lsibvxvg0dvsnhl0vzv_1/master.m3u8?dw=80&hdnts=exp=1700866147~acl=/streams/29325975_9091664_lsibvxvg0dvsnhl0vzv_1/master.m3u8*~hmac=0a44fc0aad06acb5adf82dc5e534bed0d785bc53ee5c706b4bed5b2bdf4798e2
+https://playback2.akamaized.net/streams/29325975_9091664_lsibvxvg0dvsnhl0vzv_1/exp=1700984183~acl=%2f*~data=hdntl~hmac=4c182d06fa8aa2c1f6970f895a23a1f52b3c28b7245b696f496b9bea4da0a464/media/29325975_9091664_lsibvxvg0dvsnhl0vzv_1@2756000p.m3u8?dw=80&ts=1700895600
 
 #EXTINF:-2 tvg-id="comedy" tvg-logo="https://media0029.elcinema.com/tvguide/1358_1.png",Rotana Comedy
 https://rotanastudios-rotanacomedy-1-eu.xiaomi.wurl.tv/8b19722f7772362323148961d5a4c446.m3u8
