@@ -22,7 +22,7 @@ def alittihad():
 def aljadeed():
   file='ch/arab.m3u8'
   tvgid='al_jadeed' #nome canale
-  stream="http://www.elahmad.com/tv/newtv.php" #link pagina da cui estrarre 
+  stream="https://www.elahmad.com/tv/mobiletv/glarb.php?id=aljadeed1" #link pagina da cui estrarre 
   link_m3u8=""
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream ])
 
@@ -129,7 +129,7 @@ def mbc5():
 def mbcmax():
   file='ch/mbc.m3u8'
   tvgid='mbc_max' #nome canale
-  stream="https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbcmax_tv_1" #link pagina da cui estrarre 
+  stream="https://www.elahmad.com/tv/watchtv.php?id=mbc_max" #link pagina da cui estrarre 
   link_m3u8=""
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream ])
 
@@ -138,7 +138,7 @@ def mbcaction():
   tvgid='mbc_action' #nome canale
   stream="https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbcaction_tv_1" #link pagina da cui estrarre 
   link_m3u8=""
-  subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream ])
+# subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream ])
 
 def mbcdrama():
   file='ch/mbc.m3u8'
