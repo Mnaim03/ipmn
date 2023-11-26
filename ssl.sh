@@ -9,7 +9,7 @@ echo -e "\033[35m######### PULL GIT REPO ################\033[0m"
 echo -e "\033[35m########################################\033[0m"
 echo ""
 
-git pull 
+git pull  
 echo -e "\033[32m Pull eseguita correttamente. \033[0m"
 
 echo ""
@@ -22,7 +22,6 @@ echo -e "\033[35m########################################\033[0m"
   chmod +x ch_call.sh #do i permessi al file bash che chiama ch_get e ch_write
   python3 main.py 
  
-clear
 
 echo ""
 echo -e "\033[35m########################################\033[0m"
@@ -43,11 +42,10 @@ echo -e "\033[35m################# GIT ##################\033[0m"
 echo -e "\033[35m########################################\033[0m"
 
 #installa gh
-#git pull #si prende i file modificati più recenti
-git add ./*
-git commit -m 'Update'
-git push
-echo -e "\033[32m Commit & Push eseguito \033[0m"
+ git add ./*
+ git commit -m 'Update'
+ git push
+ echo -e "\033[32m Commit & Push eseguito \033[0m"
 
 echo ""
 echo -e "\033[35m########################################\033[0m"

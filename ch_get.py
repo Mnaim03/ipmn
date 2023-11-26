@@ -29,12 +29,17 @@ extension_loaded = wait_extension.until(EC.presence_of_element_located((By.ID, '
 wait = WebDriverWait(browser, 20)
 links = wait.until(EC.presence_of_all_elements_located((By.TAG_NAME, 'a')))
 
-parte_iniziale = 'https://tv.ipslow.com/tv'
-
 for link in links:
-    href = link.get_attribute('href')
-    if ( (not href.startswith('javascript:')) and (href.startswith(parte_iniziale) or href.endswith('.m3u8')) ):
-        print(f"{href}") #la print serve per restituire il link
+    try:
+        href = link.get_attribute('href')
+        if href and ('javascript:' not in href):
 
+            #la condizione dell'if è il filtro dei vari link
+            if href.startswith('https://tv1.ipslow.com/tv') or href.startswith('https://tv.ipslow.com/tv') or href.endswith('.m3u8') or href.startswith('https://playback2.akamaized'):
+                print(href)  # Stampa il link se soddisfa i criteri
+    except StaleElementReferenceException:
+        print("Elemento non più valido, continuo con il prossimo elemento...")
+        continue
+
+time.sleep(6) #protezione anti ip-ban
 browser.quit()
-time.sleep(1)
