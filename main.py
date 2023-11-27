@@ -115,7 +115,7 @@ def mbc3():
   file='ch/mbc.m3u8'
   tvgid='mbc3' #nome canale
   stream="https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc3_tv_1" #link pagina da cui estrarre 
-  link_m3u8="https://shls-mbcdramaksa-ak.akamaized.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_9.m3u8"
+  link_m3u8="https://mbc3-eur-prod-dub-ak.akamaized.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_1.m3u8"
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream ])
 
 def mbc4():
