@@ -15,7 +15,7 @@ echo " "
 echo "AVVIO $tvg_id"
 
 if [ -z "$link_m3u8" ]; then
-  while [ -z "$link_m3u8" ] && ["$i" -ne 10]; do
+  while [ -z "$link_m3u8" ] && [ "$i" -ne 10 ]; do
     #Incremento contatore
     ((i++))
 
@@ -31,8 +31,9 @@ fi
 
 #verifico errore 
 if [ -z "$link_m3u8" ]; then
-    echo "segnalo errore"
-    #errore.py   #errore da segnale in error.txt
+    echo "! SEGNALO ERRORE"
+    chmod +x ch/out/error.py
+    python3 ch/out/error.py  0 "$tvg-id" "$stream" #errore da segnale in error.txt
 fi
 
 echo "! scrivo m3u8 $tvg_id su $file"
