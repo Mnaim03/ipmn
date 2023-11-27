@@ -3,6 +3,11 @@
 #gestisco tutti i canali 
 import subprocess
 
+#mbc4you --> mbc2
+#elahmad
+#dagav --> mtv, al jadeed
+#fomny-tv.com -->lbci
+
 # Chiamata al file bash con valori passati come argomenti
 
 def manar():
@@ -22,7 +27,8 @@ def alittihad():
 def aljadeed():
   file='ch/arab.m3u8'
   tvgid='al_jadeed' #nome canale
-  stream="http://dagav.com/v/arabic/arab3/aljadeed.php" #link pagina da cui estrarre 
+  stream="http://dagav.com/v/arabic/arab3/aljadeed.php" #DAGAV
+  #stream="http://www.elahmad.com/tv/newtv.php" #ALAHMAD
   link_m3u8=""
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream ])
 
@@ -43,7 +49,8 @@ def jlive():
 def lbci():
   file='ch/arab.m3u8'
   tvgid='lbci' #nome canale
-  stream="https://www.elahmad.com/tv/mobiletv/glarb.php?id=lbc_1" #link pagina da cui estrarre 
+  stream="https://www.elahmad.com/tv/mobiletv/glarb.php?id=lbc_1" #elahmad
+  #stream="http://fomny-tv.com/fomnychannels.com/Ahpop/Ahpop.php?iframe=http://www.elahmad.com/tv/watchtv.php?id=lbc" #fomny-tv.com
   link_m3u8=""
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream ])
 
@@ -57,7 +64,8 @@ def mayadeen():
 def mtv():
   file='ch/arab.m3u8'
   tvgid='mtv' #nome canale
-  stream="http://dagav.com/v/arabic/arab3/mtv.php" #link pagina da cui estrarre 
+  stream="http://dagav.com/v/arabic/arab3/mtv.php" #DEGAV
+  #stream="https://www.elahmad.com/tv/mtvlebanon.htm" #ALAHMAD
   link_m3u8=""
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream ])
 
@@ -107,7 +115,8 @@ def mbc1():
 def mbc2():
   file='ch/mbc.m3u8'
   tvgid='mbc2' #nome canale
-  stream="https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc2_tv_1" #link pagina da cui estrarre 
+  stream="https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc2_tv_1" #elahmad
+  #stream="https://www.mbc4you.com/mbc-2-shahid-movies-radan-2023_6.html" #mbc4you
   link_m3u8=""
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream ])
 
