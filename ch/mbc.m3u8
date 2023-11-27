@@ -7,7 +7,7 @@ https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index
 https://tv1.ipslow.com/tv489_www.elahmad.com_mbc_2/index.m3u8?token=5ac8ae4a8d2d00ce80fbf4c2af6ae9e7c8281371-cbfbd3a669d369f586e6ec51e6028a1a-1701104161-1701093361
 
 #EXTINF:-2 tvg-id="mbc3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MBC_3_Transparent_Background_Logo.png/480px-MBC_3_Transparent_Background_Logo.png",MBC 3
-https://shls-mbcdramaksa-ak.akamaized.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_9.m3u8
+https://mbc3-eur-prod-dub-ak.akamaized.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_1.m3u8
 
 #EXTINF:-2 tvg-id="mbc4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/MBC_4_TV_Channel_Logo.png/800px-MBC_4_TV_Channel_Logo.png",MBC 4
 https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8

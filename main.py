@@ -89,7 +89,12 @@ def otv():
   link_m3u8=""
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream ])
 
-
+def dwarab():
+  file='ch/arab.m3u8'
+  tvgid='dw_arab' #nome canale
+  stream="https://www.elahmad.com/tv/arabic-tv-online.php?id=dwtvarabia" #link pagina da cui estrarre 
+  link_m3u8="https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8"
+  subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream ])
 
 def mbc1():
   file='ch/mbc.m3u8'
@@ -212,6 +217,14 @@ def ssc2():
   link_m3u8=""
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream ])
 
+def ssc3():
+  file='ch/sport.m3u8'
+  tvgid='ssc3' #nome canale
+  stream="https://www.elahmad.com/tv/mobiletv/glarb.php?id=ssc_sports_3" #link pagina da cui estrarre 
+  link_m3u8=""
+  subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream ])
+
+
 def ads1():
   file='ch/sport.m3u8'
   tvgid='ads1' #nome canale
@@ -263,6 +276,7 @@ mustakbal()
 natgeo()
 nbn()
 otv()
+swarab()
 
 mbc1()
 mbc2()
@@ -282,6 +296,7 @@ bein4()
 bein5()
 ssc1()
 ssc2()
+ssc3()
 ads1()
 ads2()
 
