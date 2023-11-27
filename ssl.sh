@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /Users/mohamadnaim/Documents/pyreq  #zona attuale dove si trova la mia cartella
+  #zona attuale dove si trova la mia cartella
   chomd +x ping.sh
   ./ping.sh
 
@@ -17,7 +17,7 @@ echo -e "\033[35m########################################\033[0m"
 echo -e "\033[35m################ START  ################\033[0m"
 echo -e "\033[35m########################################\033[0m"
 #START
-  cd /Users/mohamadnaim/Documents/pyreq  #zona attuale dove si trova la mia cartella
+ #zona attuale dove si trova la mia cartella
   chmod +x main.py  #do i permessi al main.py
   chmod +x ch_call.sh #do i permessi al file bash che chiama ch_get e ch_write
   python3 main.py 

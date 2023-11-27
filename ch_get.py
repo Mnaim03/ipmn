@@ -10,7 +10,7 @@ import time
 url = sys.argv[1]
 
 # Imposta la variabile d'ambiente per il percorso del driver di Chrome
-chrome_driver_path = "/percorso/del/tuo/chromedriver"
+chrome_driver_path = "chrome/chromedriver(mac)"
 os.environ['PATH'] += ":" + chrome_driver_path
 
 # Opzioni del browser Chrome

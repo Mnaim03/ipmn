@@ -7,7 +7,7 @@ https://manar.live/iptv/tracks-v1a1/mono.m3u8
 https://live.alittihad.tv:444/ittihad/index.m3u8
 
 #EXTINF:-2 tvg-id="al_jadeed" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Al_Jadeed.PNG",Al Jadeed
-https://tv1.ipslow.com/tv489_www.elahmad.com_aljadeed/index.m3u8?token=0ffe32f9306319e2b229774ab14e424a2a9d6b96-a66c0d871ddcc3f324ffdcd7be2fc6be-1701098299-1701087499
+https://tv1.ipslow.com/tv489_www.elahmad.com_aljadeed/index.m3u8?token=41b62d65466c989388e6a40969d0d5c91ddc0406-807a79bc38b6d16f2837a5ced0dba639-1701100924-1701090124
 
 #EXTINF:-2 tvg-id="jazeera_arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0f/Al_Jazeera.svg/1200px-Al_Jazeera.svg.png",Jazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
