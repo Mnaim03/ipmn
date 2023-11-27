@@ -140,6 +140,13 @@ def mbcaction():
   link_m3u8=""
 # subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream ])
 
+def mbcvariety():
+  file='ch/mbc.m3u8'
+  tvgid='mbc_variety' #nome canale
+  stream="https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc_variety" #link pagina da cui estrarre 
+  link_m3u8=""
+  subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream ])
+
 def mbcdrama():
   file='ch/mbc.m3u8'
   tvgid='mbc_drama' #nome canale
@@ -264,6 +271,7 @@ mbc4()
 mbc5()
 mbcmax()
 mbcaction()
+mbcvariety()
 mbcdrama()
 mbcmasr()
 
