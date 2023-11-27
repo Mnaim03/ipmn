@@ -31,6 +31,7 @@ fi
 
 #verifico errore 
 if [ -z "$link_m3u8" ]; then
+    echo "segnalo errore"
     #errore.py   #errore da segnale in error.txt
 fi
 
