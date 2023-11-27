@@ -96,6 +96,7 @@ def dwarab():
   link_m3u8="https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8"
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream ])
 
+
 def mbc1():
   file='ch/mbc.m3u8'
   tvgid='mbc1' #nome canale
@@ -224,7 +225,6 @@ def ssc3():
   link_m3u8=""
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream ])
 
-
 def ads1():
   file='ch/sport.m3u8'
   tvgid='ads1' #nome canale
@@ -276,7 +276,7 @@ mustakbal()
 natgeo()
 nbn()
 otv()
-swarab()
+dwarab()
 
 mbc1()
 mbc2()
