@@ -1,2 +1,107 @@
 
- [ 2023-11-30 - 23:13 ] -->MacOS has done a update: 
+ [ 2023-11-30 - 23:15 ] -->MacOS has done a update: 
+
+ manar --> Estrazione m3u8 ANDATA MALE (x). 
+ Link stream fornito: https://www.elahmad.com/tv/almanartv.php
+
+ al_ittihad --> Estrazione m3u8 ANDATA MALE (x). 
+ Link stream fornito: https://www.elahmad.com/tv/mobiletv/glarb.php?id=alittihad
+
+ al_jadeed --> Estrazione m3u8 ANDATA MALE (x). 
+ Link stream fornito: http://www.elahmad.com/tv/newtv.php
+
+ jazeera_arabic --> Estrazione m3u8 ANDATA MALE (x). 
+ Link stream fornito: https://www.elahmad.com/tv/mobiletv/glarb.php?id=aljazeer_ar1
+
+ jazeera_live --> Estrazione m3u8 ANDATA MALE (x). 
+ Link stream fornito: https://www.elahmad.com/tv/aljazeera_mubasher.htm
+
+ lbci --> Estrazione m3u8 ANDATA MALE (x). 
+ Link stream fornito: https://www.elahmad.com/tv/mobiletv/glarb.php?id=lbc_1
+
+ mayadeen --> Estrazione m3u8 ANDATA MALE (x). 
+ Link stream fornito: https://www.elahmad.com/tv/mobiletv/glarb.php?id=almayadeen1
+
+ mtv --> Estrazione m3u8 ANDATA MALE (x). 
+ Link stream fornito: https://www.elahmad.com/tv/mtvlebanon.htm
+
+ mustakbal --> Estrazione m3u8 ANDATA MALE (x). 
+ Link stream fornito: https://www.elahmad.com/tv/futurelive.php
+
+ natgeo --> Estrazione m3u8 ANDATA MALE (x). 
+ Link stream fornito: https://www.elahmad.com/tv/mobiletv/glarb.php?id=natgeo_1
+
+ nbn --> Estrazione m3u8 ANDATA MALE (x). 
+ Link stream fornito: https://www.elahmad.com/tv/mobiletv/glarb.php?id=nbn
+
+ otv --> Estrazione m3u8 ANDATA MALE (x). 
+ Link stream fornito: https://www.elahmad.com/tv/mobiletv/glarb.php?id=otv_lb1
+
+ dw_arab --> Estrazione m3u8 ANDATA MALE (x). 
+ Link stream fornito: https://www.elahmad.com/tv/arabic-tv-online.php?id=dwtvarabia
+
+ mbc1 --> Estrazione m3u8 ANDATA MALE (x). 
+ Link stream fornito: https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc1_tv_1
+
+ mbc2 --> Estrazione m3u8 ANDATA MALE (x). 
+ Link stream fornito: https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc2_tv_1
+
+ mbc3 --> Estrazione m3u8 ANDATA MALE (x). 
+ Link stream fornito: https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc3_tv_1
+
+ mbc4 --> Estrazione m3u8 ANDATA MALE (x). 
+ Link stream fornito: https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc4_tv_1
+
+ mbc5 --> Estrazione m3u8 ANDATA MALE (x). 
+ Link stream fornito: https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc5_tv_1
+
+ mbc_max --> Estrazione m3u8 ANDATA MALE (x). 
+ Link stream fornito: https://www.elahmad.com/tv/watchtv.php?id=mbc_max
+
+ mbc_variety --> Estrazione m3u8 ANDATA MALE (x). 
+ Link stream fornito: https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc_variety
+
+ mbc_drama --> Estrazione m3u8 ANDATA MALE (x). 
+ Link stream fornito: https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbcdrama_tv_1
+
+ mbc_masr --> Estrazione m3u8 ANDATA MALE (x). 
+ Link stream fornito: https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbcmasr_tv_1
+
+ bein1 --> Estrazione m3u8 ANDATA MALE (x). 
+ Link stream fornito: https://www.elahmad.com/tv/mobiletv/glarb.php?id=bein_m_1
+
+ bein2 --> Estrazione m3u8 ANDATA MALE (x). 
+ Link stream fornito: https://www.elahmad.com/tv/mobiletv/glarb.php?id=bein_m_2
+
+ bein3 --> Estrazione m3u8 ANDATA MALE (x). 
+ Link stream fornito: https://www.elahmad.com/tv/mobiletv/glarb.php?id=bein_m_3
+
+ bein4 --> Estrazione m3u8 ANDATA MALE (x). 
+ Link stream fornito: https://www.elahmad.com/tv/mobiletv/glarb.php?id=bein_m_4
+
+ bein5 --> Estrazione m3u8 ANDATA MALE (x). 
+ Link stream fornito: https://www.elahmad.com/tv/mobiletv/glarb.php?id=bein_m_5
+
+ ssc1 --> Estrazione m3u8 ANDATA MALE (x). 
+ Link stream fornito: https://ayas.ir/sp/ayasktv.php?link=https://af.ayassport.ir/hls2/ssc1.m3u8&title=Ayas%20sport
+
+ ssc2 --> Estrazione m3u8 ANDATA MALE (x). 
+ Link stream fornito: https://www.elahmad.com/tv/mobiletv/glarb.php?id=ssc_sports_2
+
+ ssc3 --> Estrazione m3u8 ANDATA MALE (x). 
+ Link stream fornito: https://www.elahmad.com/tv/mobiletv/glarb.php?id=ssc_sports_3
+
+ ads1 --> Estrazione m3u8 ANDATA MALE (x). 
+ Link stream fornito: https://www.elahmad.com/tv/mobiletv/glarb.php?id=abudhabi_sports1
+
+ ads2 --> Estrazione m3u8 ANDATA MALE (x). 
+ Link stream fornito: https://www.elahmad.com/tv/mobiletv/glarb.php?id=abudhabi_sports2
+
+ cinema --> Estrazione m3u8 ANDATA MALE (x). 
+ Link stream fornito: https://www.elahmad.com/tv/watchtv.php?id=rotana_cinema
+
+ aflam+ --> Estrazione m3u8 ANDATA MALE (x). 
+ Link stream fornito: https://www.elahmad.com/tv/live/live_stream.php?id=rotana_aflam_plus
+
+ comedy --> Estrazione m3u8 ANDATA MALE (x). 
+ Link stream fornito: https://www.elahmad.com/tv/watchtv.php?id=rotana_comedy
