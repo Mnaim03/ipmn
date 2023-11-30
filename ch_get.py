@@ -12,7 +12,7 @@ code= int(sys.argv[2]) #codice per identificare sistem
 
 # Imposta la variabile d'ambiente per il percorso del driver di Chrome
 
-if i==1: #MacOS
+if code==1: #MacOS
  chrome_driver_path = "chrome/chromedriver(mac)"
 else: #Linux (=2≠1)
  chrome_driver_path = "chrome/chromedriver(linux)"
