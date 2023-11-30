@@ -7,7 +7,7 @@ def data(): # Ottieni data atuale
  time = time.strftime('[ %Y-%m-%d - %H:%M ]') #rimpicciolisco ora 
 
 def txtprint(host): #stampa nel file
-  with open('log.txt', 'a') as file:
+  with open('ch/out/log.txt', 'a') as file:
     file.write(f"\n {time} -----> {host}")
 
 #main

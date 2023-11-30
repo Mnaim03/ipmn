@@ -1,4 +1,4 @@
-#INPUT --> operazione(=0/≠0), id, stram, host (o user), status(=0/≠0)
+#INPUT --> operazione(=0/≠0), id, stream, host (o user), status(=0/≠0)
 from datetime import datetime
 import sys
 
@@ -8,21 +8,21 @@ def data(): # Ottieni data atuale
  time = time.strftime('[ %Y-%m-%d - %H:%M ]') #rimpicciolisco ora 
 
 def txtprintw(): #stampa nel file
-  with open('status.txt', 'w') as file:
+  with open('ch/out/status.txt', 'a') as file:
     file.write(f"\n\n {tvgid} --> Estrazione m3u8 ESEGUITA CORRETTAMENTE (✓).")
     file.write(f"\n Link stream fornito: {stream}")
 
 def txtprintf(): #stampa nel file
-  with open('status.txt', 'w') as file:
+  with open('ch/out/status.txt', 'a') as file:
     file.write(f"\n\n {tvgid} --> Estrazione m3u8 ANDATA MALE (x). ")
     file.write(f"\n Link stream fornito: {stream}")
 
 def txtwipe(): #pulisci file
-    with open('status.txt', 'r+') as file:
+    with open('ch/out/status.txt', 'r+') as file:
         file.truncate(0) #riduce la lunghezza del file a zero byte
 
 def print_user():
-    with open('status.txt', 'w') as file:
+    with open('ch/out/status.txt', 'a') as file:
       file.write(f"\n {time} -->{user} has done a update: ")
 #main
 i = int(sys.argv[1])
@@ -35,7 +35,7 @@ status= sys.argv[5] #status of channel
 # status=0 --> working
 # status=1 --> NOT working
 
- data()
+data()
 if i == 0:
   if status == 0:
       txtprintw()

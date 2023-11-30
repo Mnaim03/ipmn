@@ -10,6 +10,7 @@
   ./ping.sh
 
 #request save --> ch_status e host_log
+
   chmod +x ch/out/status.py
   python3 ch/out/status.py 3 "" "" $user 3 #i=3≠0 qunindi eseguirà whipe() & print_user()
 
@@ -42,7 +43,6 @@ echo -e "\033[35m################# SAVE #################\033[0m"
 echo -e "\033[35m########################################\033[0m"
 
  #SAVE
-  cd /Users/mohamadnaim/Documents/pyreq
   chmod +x mono.py
   python3 mono.py
   #open -a VLC mono.m3u8
