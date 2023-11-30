@@ -27,8 +27,8 @@ def alittihad():
 def aljadeed():
   file='ch/arab.m3u8'
   tvgid='al_jadeed' #nome canale
-  stream="http://dagav.com/v/arabic/arab3/aljadeed.php" #DAGAV
-  #stream="http://www.elahmad.com/tv/newtv.php" #ALAHMAD
+  #stream="http://dagav.com/v/arabic/arab3/aljadeed.php" #DAGAV
+  stream="http://www.elahmad.com/tv/newtv.php" #ALAHMAD
   link_m3u8=""
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream ])
 
@@ -64,8 +64,8 @@ def mayadeen():
 def mtv():
   file='ch/arab.m3u8'
   tvgid='mtv' #nome canale
-  stream="http://dagav.com/v/arabic/arab3/mtv.php" #DEGAV
-  #stream="https://www.elahmad.com/tv/mtvlebanon.htm" #ALAHMAD
+  #stream="http://dagav.com/v/arabic/arab3/mtv.php" #DEGAV
+  stream="https://www.elahmad.com/tv/mtvlebanon.htm" #ALAHMAD
   link_m3u8=""
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream ])
 
