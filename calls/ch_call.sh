@@ -1,4 +1,5 @@
 #!/bin/bash
+cd /Users/mohamadnaim/Documents/pyreq/calls
 chmod +x ch_call.sh #gli faccio autodare i permessi
 #per dare i permessi via shell: chmod +x eseg.py
 
@@ -40,3 +41,5 @@ echo "! scrivo m3u8 $tvg_id su $file"
 chmod +x ch_write.py 
 python3 ch_write.py "$file" "$tvg_id"  "$link_m3u8"
 echo "FINE $tvg_id"
+
+cd /Users/mohamadnaim/Documents/pyreq
