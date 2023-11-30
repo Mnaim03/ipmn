@@ -34,7 +34,7 @@ echo -e "\033[35m########################################\033[0m"
  #zona attuale dove si trova la mia cartella
   chmod +x main.py  #do i permessi al main.py
   chmod +x ch_call.sh #do i permessi al file bash che chiama ch_get e ch_write
-  python3 main.py 
+  python3 main.py $code #gli passo l'info per sceglere il driver chrome
  
 
 echo ""
