@@ -8,7 +8,7 @@ import time
 
 #estrazione link
 url = sys.argv[1]
-code= sys.argv[2] #codice per identificare sistem 
+code= int(sys.argv[2]) #codice per identificare sistem 
 
 # Imposta la variabile d'ambiente per il percorso del driver di Chrome
 
