@@ -274,6 +274,7 @@ def comedy():
 
 #main
 i = int(sys.argv[1])
+global i
 manar()
 alittihad()
 aljadeed()
