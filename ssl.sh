@@ -1,7 +1,20 @@
 #!/bin/bash
   #zona attuale dove si trova la mia cartella
+  code="$1"
+  #=1 MacOS
+  #=2 Linux server
+  user="$2"
+  
+#ping
   chomd +x ping.sh
   ./ping.sh
+
+#request save --> ch_status e host_log
+  chmod +x ch/out/status.py
+  python3 ch/out/status.py 3 "" "" $user 3 #i=3≠0 qunindi eseguirà whipe() & print_user()
+
+  chmod +x ch/out/log.py
+  python3 ch/out/log.py $user
 
 echo ""
 echo -e "\033[35m########################################\033[0m"
