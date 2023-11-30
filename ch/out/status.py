@@ -21,7 +21,7 @@ def txtwipe(): #pulisci file
     with open('status.txt', 'r+') as file:
         file.truncate(0) #riduce la lunghezza del file a zero byte
 
-def print_user()
+def print_user():
     with open('status.txt', 'w') as file:
       file.write(f"\n {time} -->{user} has done a update: ")
 #main
