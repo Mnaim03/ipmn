@@ -37,10 +37,10 @@ status= sys.argv[5] #status of channel
 
 data()
 if i == 0:
-  if status == 0:
-      txtprintw()
-  else: 
-      txtprintf()
+    if status == 0:
+        txtprintf()
+    else: #status ≠ 0
+        txtprintw()
 else: #i ≠ 0
   txtwipe()
   print_user()
