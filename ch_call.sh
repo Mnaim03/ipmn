@@ -33,9 +33,9 @@ fi
 #verifico "status" del canale ancora prima di scriverlo  
 chmod +x ch/out/status.py
 if [ -z "$link_m3u8" ]; then
-    python3 ch/out/status.py 0 $tvg_id $stream "" 0  
+    python3 ch/out/status.py 0 $tvg_id $stream "" 1  
 else
-    python3 ch/out/status.py 0 $tvg_id $stream "" 1
+    python3 ch/out/status.py 0 $tvg_id $stream "" 0
 fi 
 
 echo "! scrivo m3u8 $tvg_id su $file"
