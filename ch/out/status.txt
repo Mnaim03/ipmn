@@ -1,5 +1,5 @@
 
- [ 2023-12-02 - 14:34 ] -->MacOS (m3u8 update) has done a update: 
+ [ 2023-12-02 - 16:08 ] -->MacOS (m3u8 update) has done a update: 
 
  manar --> Estrazione m3u8 ESEGUITA CORRETTAMENTE (✓).
  Link stream fornito: https://www.elahmad.com/tv/almanartv.php
@@ -100,8 +100,8 @@
  cinema --> Estrazione m3u8 ESEGUITA CORRETTAMENTE (✓).
  Link stream fornito: https://www.elahmad.com/tv/watchtv.php?id=rotana_cinema
 
- aflam+ --> Estrazione m3u8 ESEGUITA CORRETTAMENTE (✓).
- Link stream fornito: https://www.elahmad.com/tv/live/live_stream.php?id=rotana_aflam_plus
+ hd+ --> Estrazione m3u8 ESEGUITA CORRETTAMENTE (✓).
+ Link stream fornito: https://www.elahmad.com/tv/live/live_stream.php?id=rotana_hd_plus
 
  comedy --> Estrazione m3u8 ESEGUITA CORRETTAMENTE (✓).
  Link stream fornito: https://www.elahmad.com/tv/watchtv.php?id=rotana_comedy

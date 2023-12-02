@@ -257,10 +257,10 @@ def cinema():
   link_m3u8="https://daiconnect.com/live/hls/rotana/cinema-ksa/088fc425900dc92b37981c5043d969dd/.m3u8?requestuid=c70abcb5-64bb-4596-9d36-9f8c25032fe4"
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
 
-def aflam():
+def rhd():
   file='ch/rotana.m3u8'
-  tvgid='aflam+' #nome canale
-  stream="https://www.elahmad.com/tv/live/live_stream.php?id=rotana_aflam_plus" #link pagina da cui estrarre 
+  tvgid='hd+' #nome canale
+  stream="https://www.elahmad.com/tv/live/live_stream.php?id=rotana_hd_plus" #link pagina da cui estrarre 
   link_m3u8=""
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
 
@@ -313,5 +313,5 @@ ads1()
 ads2()
 
 cinema()
-aflam()
+rhd()
 comedy()
