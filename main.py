@@ -14,7 +14,7 @@ def manar():
   file='ch/arab.m3u8'
   tvgid='manar' #nome canale
   stream="https://www.elahmad.com/tv/almanartv.php" #link pagina da cui estrarre 
-  link_m3u8="https://manar.live/iptv/tracks-v1a1/mono.m3u8"
+  link_m3u8="https://e2.manar.live:9000/live/tracks-v1a1/mono.m3u8"
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
 
 def alittihad():

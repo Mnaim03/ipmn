@@ -3,8 +3,8 @@
 #EXTINF:-2 tvg-id="cinema" group-title="ARABIC" tvg-logo="https://www.ethnicchannels.com/images/channeldetail/rotana-aflam/rotana-aflam.png",Rotana Cinema
 https://daiconnect.com/live/hls/rotana/cinema-ksa/088fc425900dc92b37981c5043d969dd/.m3u8?requestuid=c70abcb5-64bb-4596-9d36-9f8c25032fe4
 
-#EXTINF:-2 tvg-id="hd+" group-title="ARABIC" tvg-logo="https://www.ethnicchannels.com/images/channeldetail/rotana-aflam/rotana-aflam.png",Rotana Aflam+
-https://playback2.akamaized.net/streams/29325975_9091635_lsie7j8ev8om4lb9n51_1/exp=1701616259~acl=%2f*~data=hdntl~hmac=83a37dada20ec30baeb092ba37f30547594bc58c28d8e5735b891a79306ab6ad/media/29325975_9091635_lsie7j8ev8om4lb9n51_1@2756000p.m3u8?dw=80&ts=1701529200
+#EXTINF:-2 tvg-id="hd+" group-title="ARABIC" tvg-logo="https://www.ethnicchannels.com/images/channeldetail/rotana-aflam/rotana-aflam.png",Rotana HD+
+https://playback2.akamaized.net/streams/29325975_9091635_lsie7j8ev8om4lb9n51_1/exp=1701616514~acl=%2f*~data=hdntl~hmac=02e48e9cddcb9e5996cc8d511c4dd7272ea5516d52f58d505f394c44a1a33c19/media/29325975_9091635_lsie7j8ev8om4lb9n51_1@2756000p.m3u8?dw=80&ts=1701529200
 
 #EXTINF:-2 tvg-id="comedy" group-title="ARABIC" tvg-logo="https://media0029.elcinema.com/tvguide/1358_1.png",Rotana Comedy
 https://rotanastudios-rotanacomedy-1-eu.xiaomi.wurl.tv/8b19722f7772362323148961d5a4c446.m3u8
