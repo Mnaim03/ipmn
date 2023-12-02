@@ -1,19 +1,19 @@
 #EXTM3U
 
 #EXTINF:-2 tvg-id="bein1" group-title="SPORT" tvg-logo="https://seeklogo.com/images/B/bein-sport-logo-DDEBCC17B3-seeklogo.com.png",beIN 1
-https://stream.ayas.ir/hls2/beinsport1.m3u8
+https://stream.ayas.ir/hls2/ayas1.m3u8
 
 #EXTINF:-2 tvg-id="bein2" group-title="SPORT" tvg-logo="https://seeklogo.com/images/B/bein-sport-logo-DDEBCC17B3-seeklogo.com.png",beIN 2
-https://stream.ayas.ir/hls2/beinsport2.m3u8
+https://stream.ayas.ir/hls2/ayas2.m3u8
 
 #EXTINF:-2 tvg-id="bein3" group-title="SPORT" tvg-logo="https://seeklogo.com/images/B/bein-sport-logo-DDEBCC17B3-seeklogo.com.png",beIN 3
-https://stream.ayas.ir/hls2/beinsport3.m3u8
+https://stream.ayas.ir/hls2/ayas3.m3u8
 
 #EXTINF:-2 tvg-id="bein4" group-title="SPORT" tvg-logo="https://seeklogo.com/images/B/bein-sport-logo-DDEBCC17B3-seeklogo.com.png",beIN 4
-https://stream.ayas.ir/hls2/beinsport4.m3u8
+https://stream.ayas.ir/hls2/ayas4.m3u8
 
 #EXTINF:-2 tvg-id="bein5" group-title="SPORT" tvg-logo="https://seeklogo.com/images/B/bein-sport-logo-DDEBCC17B3-seeklogo.com.png",beIN 5
-https://stream.ayas.ir/hls2/beinsport5.m3u8
+https://stream.ayas.ir/hls2/ayas5.m3u8
 
 #EXTINF:-2 tvg-id="ssc1" group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",SSC 1
 https://af.ayassport.ir/hls2/ssc1.m3u8
