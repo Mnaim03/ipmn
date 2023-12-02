@@ -18,7 +18,7 @@ def print_push(): #stampa nel file
     file.write(f"\n PUSH {time} -----> {host}")
 
 #main
-i = sys.argv[1]
+i = int(sys.argv[1])
 host = sys.argv[2]
 data()
  
