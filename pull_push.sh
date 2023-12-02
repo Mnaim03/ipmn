@@ -5,7 +5,7 @@ host="$2"
 # op≠0 --> PUSH
 
 chmod +x ch/out/pull_push.py
-python3 ch/out/pull_push.py $op $host
+python3 ch/out/pull_push.py "$op" "$host"
 
 if [ $op -eq 0 ]; then
 

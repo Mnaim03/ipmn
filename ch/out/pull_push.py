@@ -9,20 +9,20 @@ def data(): # Ottieni data atuale
  time = datetime.now()
  time = time.strftime('[ %Y-%m-%d - %H:%M ]') #rimpicciolisco ora 
 
-def print_pull(): #stampa nel file
-  with open('pull_push.txt', 'a') as file:
-    file.write(f"\n PULL {time} -----> {host}")
-
-def print_push(): #stampa nel file
-  with open('pull_push.txt', 'a') as file:
-    file.write(f"\n PUSH {time} -----> {host}")
+def printinfo(i,host,time): #stampa nel file
+  with open('ch/out/pull_push.txt', 'a') as file:
+        if i == 0:
+            file.write(f"\n PULL {time} -----> {host}")
+        else:
+            file.write(f"\n PUSH {time} -----> {host}")
 
 #main
-i = int(sys.argv[1])
+try:
+  i = int(sys.argv[1])
+except ValueError:
+  print("Il primo argomento deve essere un numero intero")
+  sys.exit(1)
 host = sys.argv[2]
+
 data()
- 
-if i == 0:
-  print_pull()
-else: #i ≠ 0
-  print_push()
+printinfo(i,host,time)

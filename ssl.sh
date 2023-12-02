@@ -12,10 +12,10 @@
 #request save --> ch_status e host_log
 
   chmod +x ch/out/status.py
-  python3 ch/out/status.py 3 "" "" $user 3 #i=3≠0 qunindi eseguirà whipe() & print_user()
+  python3 ch/out/status.py 3 "" "" "$user" 3 #i=3≠0 qunindi eseguirà whipe() & print_user()
 
   chmod +x ch/out/log.py
-  python3 ch/out/log.py $user
+  python3 ch/out/log.py "$user"
 
 #PULL
 chmod +x pull_push.sh
