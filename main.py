@@ -153,7 +153,7 @@ def mbcaction():
   tvgid='mbc_action' #nome canale
   stream="https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbcaction_tv_1" #link pagina da cui estrarre 
   link_m3u8=""
-# subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
+  #subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
 
 def mbcvariety():
   file='ch/mbc.m3u8'
@@ -262,7 +262,7 @@ def rhd():
   tvgid='hd+' #nome canale
   stream="https://www.elahmad.com/tv/live/live_stream.php?id=rotana_hd_plus" #link pagina da cui estrarre 
   link_m3u8=""
-  subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
+  #subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
 
 def comedy():
   file='ch/rotana.m3u8'
