@@ -1,31 +1,31 @@
 #EXTM3U
 
-#EXTINF:-2 tvg-id="mbc1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/640px-Mbc1logo.png",MBC 1
+#EXTINF:-2 tvg-id="mbc1" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/640px-Mbc1logo.png",MBC 1
 https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_7.m3u8
 
-#EXTINF:-2 tvg-id="mbc2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png",MBC 2
-https://cdn1.ipslow.com/tv491_www.elahmad.com_mbc_2/index.m3u8?token=0273d6a473970947e3e18ce9d383ce27c119d346-1dcee4cd0b40252af8f835f6399041e7-1701519830-1701509030
+#EXTINF:-2 tvg-id="mbc2" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png",MBC 2
+https://cdn1.ipslow.com/tv491_www.elahmad.com_mbc_2/index.m3u8?token=3e0766c18ee5c8c386837fc9aa20ac7b3d6ec579-1e19b95238d15cd32fe94d4368c0bfcc-1701521045-1701510245
 
-#EXTINF:-2 tvg-id="mbc3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MBC_3_Transparent_Background_Logo.png/480px-MBC_3_Transparent_Background_Logo.png",MBC 3
+#EXTINF:-2 tvg-id="mbc3" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MBC_3_Transparent_Background_Logo.png/480px-MBC_3_Transparent_Background_Logo.png",MBC 3
 https://mbc3-eur-prod-dub-ak.akamaized.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_1.m3u8
 
-#EXTINF:-2 tvg-id="mbc4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/MBC_4_TV_Channel_Logo.png/800px-MBC_4_TV_Channel_Logo.png",MBC 4
+#EXTINF:-2 tvg-id="mbc4" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/MBC_4_TV_Channel_Logo.png/800px-MBC_4_TV_Channel_Logo.png",MBC 4
 https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
 
-#EXTINF:-2 tvg-id="mbc5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC5_logo.png",MBC 5
+#EXTINF:-2 tvg-id="mbc5" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC5_logo.png",MBC 5
 https://shls-masr2-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
 
-#EXTINF:-2 tvg-id="mbc_max" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqpgp00HQDKpw1egtkUVf00fF2oxNYGzAGgox9ZkfMNsTOt2vNoNGenNc1P17R0ClD0VQ1y9rpFiQCrkaa7knYYav_n9DCenskwZgNonT02x5l0J4WCKbLLOsNgbENkaqEyipp1n46vCRZV2MyxgUS-IgukUp9Debrw6WVhRJdfKr9P90hN2Ahrl_T/s600/%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9%20%D9%82%D9%86%D8%A7%D8%A9%20%D8%A7%D9%85%20%D8%A8%D9%89%20%D8%B3%D9%89%20%D9%85%D8%A7%D9%83%D8%B3%20%D8%A8%D8%AB%20%D9%85%D8%A8%D8%A7%D8%B4%D8%B1.png",MBC MAX
-https://cdn1.ipslow.com/tv491_www.elahmad.com_mbc_max/index.m3u8?token=fc2b08c18b303601a7de4f6aa1558f9563880b81-fcadb38249fa97680f1e5a641705727c-1701519840-1701509040
+#EXTINF:-2 tvg-id="mbc_max" group-title="ARABIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqpgp00HQDKpw1egtkUVf00fF2oxNYGzAGgox9ZkfMNsTOt2vNoNGenNc1P17R0ClD0VQ1y9rpFiQCrkaa7knYYav_n9DCenskwZgNonT02x5l0J4WCKbLLOsNgbENkaqEyipp1n46vCRZV2MyxgUS-IgukUp9Debrw6WVhRJdfKr9P90hN2Ahrl_T/s600/%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9%20%D9%82%D9%86%D8%A7%D8%A9%20%D8%A7%D9%85%20%D8%A8%D9%89%20%D8%B3%D9%89%20%D9%85%D8%A7%D9%83%D8%B3%20%D8%A8%D8%AB%20%D9%85%D8%A8%D8%A7%D8%B4%D8%B1.png",MBC MAX
+https://cdn1.ipslow.com/tv491_www.elahmad.com_mbc_max/index.m3u8?token=8fbf2105162311b411536f9343be998ecca19b70-1fa5eb3e5e032f090ae3a649aa7e4768-1701521056-1701510256
 
-#EXTINF:-2 tvg-id="mbc_action" tvg-logo="https://iconape.com/wp-content/png_logo_vector/%D8%B4%D8%B9%D8%A7%D8%B1-mbc-action.png",MBC Action
+#EXTINF:-2 tvg-id="mbc_action" group-title="ARABIC" tvg-logo="https://iconape.com/wp-content/png_logo_vector/%D8%B4%D8%B9%D8%A7%D8%B1-mbc-action.png",MBC Action
 https://tv1.ipslow.com/tv489_www.elahmad.com_mbc_action/index.m3u8?token=cf78a4ff7f261e4349acd81164bad694bbcfaf34-c78824d359942b65bb5c9f4cd302d5f1-1701023524-1701012724
 
-#EXTINF: -2 tvg-id="mbc_variety" tvg-logo="https://raw.githubusercontent.com/bebawy6/TVLogos/master/MBC-Variety.png",MBC Variety+
-https://cdn1.ipslow.com/tv491_www.elahmad.com_mbc_variety/index.m3u8?token=d070ac9b873d97656d323e15f8f3a1f621db145b-c1b050d5fda2f36ce943f496c9d0ce74-1701519850-1701509050
+#EXTINF: -2 tvg-id="mbc_variety" group-title="ARABIC" tvg-logo="https://raw.githubusercontent.com/bebawy6/TVLogos/master/MBC-Variety.png",MBC Variety+
+https://cdn1.ipslow.com/tv491_www.elahmad.com_mbc_variety/index.m3u8?token=f6430fe77dafd2b44d49015726a34f289fc6b98b-b926d7555e11218ae091d1abcfb78e11-1701521069-1701510269
 
-#EXTINF:-2 tvg-id="mbc_drama" tvg-logo="https://seeklogo.com/images/M/mbc-drama-logo-2EE963647C-seeklogo.com.png",MBC Drama
+#EXTINF:-2 tvg-id="mbc_drama" group-title="ARABIC" tvg-logo="https://seeklogo.com/images/M/mbc-drama-logo-2EE963647C-seeklogo.com.png",MBC Drama
 https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_20.m3u8
 
-#EXTINF:-2 tvg-id="mbc_masr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png",MBC Masr
+#EXTINF:-2 tvg-id="mbc_masr" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png",MBC Masr
 https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_29.m3u8

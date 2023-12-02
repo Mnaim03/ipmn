@@ -1,40 +1,40 @@
 #EXTM3U
 
-#EXTINF:-2 tvg-id="manar" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/New_Al-Manar_logo.PNG",Manar
+#EXTINF:-2 tvg-id="manar"  group-title="ARABIC"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/New_Al-Manar_logo.PNG",Manar
 https://manar.live/iptv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-2 tvg-id="al_ittihad" tvg-logo="https://www.alittihad.tv/live/assets/images/logo_new.png",Al Ittihad
+#EXTINF:-2 tvg-id="al_ittihad"  group-title="ARABIC"  tvg-logo="https://www.alittihad.tv/live/assets/images/logo_new.png",Al Ittihad
 https://live.alittihad.tv:444/ittihad/index.m3u8
 
-#EXTINF:-2 tvg-id="al_jadeed" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Al_Jadeed.PNG",Al Jadeed
-https://cdn1.ipslow.com/tv491_www.elahmad.com_aljadeed/index.m3u8?token=d7fd8c16d5a4a9d8b47794ed5c9d339321eb248e-da230cdb67e84906642d7d3f8b11ca47-1701519768-1701508968
+#EXTINF:-2 tvg-id="al_jadeed"  group-title="ARABIC"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Al_Jadeed.PNG",Al Jadeed
+https://cdn1.ipslow.com/tv491_www.elahmad.com_aljadeed/index.m3u8?token=b8159687475dad7c2cba1e36b9723679166a14eb-dc8ab26bb0480abab4ef3e634ffb108c-1701520976-1701510176
 
-#EXTINF:-2 tvg-id="jazeera_arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0f/Al_Jazeera.svg/1200px-Al_Jazeera.svg.png",Jazeera Arabic
+#EXTINF:-2 tvg-id="jazeera_arabic"  group-title="ARABIC"  tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0f/Al_Jazeera.svg/1200px-Al_Jazeera.svg.png",Jazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 
-#EXTINF:-2 tvg-id="jazeera_live" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0f/Al_Jazeera.svg/1200px-Al_Jazeera.svg.png",Jazeera Live
+#EXTINF:-2 tvg-id="jazeera_live"  group-title="ARABIC"  tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0f/Al_Jazeera.svg/1200px-Al_Jazeera.svg.png",Jazeera Live
 https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 
-#EXTINF:-2 tvg-id="lbci" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LBCI_HD_logo.png/640px-LBCI_HD_logo.png",LBCI
-https://cdn1.ipslow.com/tv491_www.elahmad.com_lbc/index.m3u8?token=e015fb15f51de7984c53a7aacc2607979aa79020-bfa6b8a4ef7696ce389d42d3687bb08a-1701519778-1701508978
+#EXTINF:-2 tvg-id="lbci"  group-title="ARABIC"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LBCI_HD_logo.png/640px-LBCI_HD_logo.png",LBCI
+https://cdn1.ipslow.com/tv491_www.elahmad.com_lbc/index.m3u8?token=045d804f3a2b5f50343c595c87d7289ec4b4b257-ca13117c3c879ab8a056c3bc525a064c-1701520987-1701510187
 
-#EXTINF:-2 tvg-id="mayadeen" tvg-logo="https://ewsat.com/img/AL_MAYADEEN.png",Mayadeen
+#EXTINF:-2 tvg-id="mayadeen"  group-title="ARABIC"  tvg-logo="https://ewsat.com/img/AL_MAYADEEN.png",Mayadeen
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b3000000_t64NTQwcA==.m3u8
 
-#EXTINF:-2 tvg-id="mtv" tvg-logo="https://lebanon.mom-gmr.org/uploads/tx_lfrogmom/media/14023-1409_import.png",MTV
-https://cdn1.ipslow.com/tv491_www.elahmad.com_mtv_lebanon/tracks-v1a1/mono.m3u8?token=54d7f7c70780dfb3ced778b5c24bc73008ae41c8-535b4b01cd7f794667c020979b568972-1701519790-1701508990
+#EXTINF:-2 tvg-id="mtv"  group-title="ARABIC"  tvg-logo="https://lebanon.mom-gmr.org/uploads/tx_lfrogmom/media/14023-1409_import.png",MTV
+https://cdn1.ipslow.com/tv491_www.elahmad.com_mtv_lebanon/tracks-v1a1/mono.m3u8?token=8c95ebfee21acaa5eb83de312eb440164ccbd13b-6f3a994077c66f183325f261b950f850-1701520996-1701510196
 
 #EXTINF:-2 tvg-id="mustakbal" tvg-logo="https://play-lh.googleusercontent.com/qbh5ly7m0BBY7aY0EyrkGP0tgjvFfu1Edz1u8Xmr0ZWtWAue4m-79i9c1TNfNZVpLA=w240-h480-rw",Mustakbal
-https://cdn1.ipslow.com/tv491_www.elahmad.com_future/index.m3u8?token=1759f74f739deabbb5f7daf0ebc418b743275193-295cd6df54d1b0c8fe11cd023f25007f-1701519800-1701509000
+https://cdn1.ipslow.com/tv491_www.elahmad.com_future/index.m3u8?token=d567df76478cb9e7bfce67744620a0acb906ee0f-2672ad0498386ca2ae01cbf0900a0a09-1701521010-1701510210
 
-#EXTINF:-2 tvg-id="natgeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Nat_geo_channel_abu_dhabi.png",National Geographic Abu Dhabi
+#EXTINF:-2 tvg-id="natgeo"  group-title="ARABIC"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Nat_geo_channel_abu_dhabi.png",National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?adtv
 
-#EXTINF:-2 tvg-id="nbn" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/NBN-logo.png",NBN
-https://cdn1.ipslow.com/tv491_www.elahmad.com_nbn/index.m3u8?token=9a6201bdd8faa38504db9298a3042cb083f47b20-85ba8f99ce6cac6cde896976eb0445b6-1701519810-1701509010
+#EXTINF:-2 tvg-id="nbn"  group-title="ARABIC"  tvg-logo="https://www.dishpromotions.com/wp-content/uploads/NBN-logo.png",NBN
+https://cdn1.ipslow.com/tv491_www.elahmad.com_nbn/tracks-v1a1/mono.m3u8?token=32232b8f7427bde3dae1dc89ec98e19e37e0886f-55a114799e5b8b55ce5ca4bde0f3347b-1701521021-1701510221
 
-#EXTINF:-2 tvg-id="otv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/OTV_%28logo%29.svg/2560px-OTV_%28logo%29.svg.png",OTV
-https://cdn1.ipslow.com/tv491_www.elahmad.com_otv_lebanon/index.m3u8?token=f90ff5e3071987febceea65f924439815880508a-9b19bdc39cf8eedfc8dbb07f87430d67-1701519820-1701509020
+#EXTINF:-2 tvg-id="otv"  group-title="ARABIC"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/OTV_%28logo%29.svg/2560px-OTV_%28logo%29.svg.png",OTV
+https://cdn1.ipslow.com/tv491_www.elahmad.com_otv_lebanon/index.m3u8?token=af330a42c11c990d39fc3ed95e3341e533acb0af-b1c1fda30eeb544754bda095a21590c6-1701521035-1701510235
 
-#EXTINF:-2 tvg-id="dw_arab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png",DW Arabic
+#EXTINF:-2 tvg-id="dw_arab"  group-title="ARABIC"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png",DW Arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8
