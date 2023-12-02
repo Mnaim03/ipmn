@@ -18,7 +18,7 @@
   python3 ch/out/log.py $user
 
 #PULL
-chmod +x pull_push 
+chmod +x pull_push.sh
 ./pull_push.sh 0 "$user" #=0 --> Pull
 
 echo ""
@@ -45,7 +45,7 @@ echo -e "\033[35m########################################\033[0m"
 
 
 #PUSH
-chmod +x pull_push 
+chmod +x pull_push.sh 
 ./pull_push.sh 3 "$user" #≠0 --> push
 
 echo ""

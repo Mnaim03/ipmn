@@ -4,6 +4,9 @@ host="$2"
 # op=0 --> PULL
 # op≠0 --> PUSH
 
+chmod +x ch/out/pull_push.py
+python3 ch/out/pull_push.py $op $host
+
 if [ $op -eq 0 ]; then
 
     echo ""
@@ -13,10 +16,6 @@ if [ $op -eq 0 ]; then
     echo ""
 
     git pull  
-
-    chmod +x pull_push.py
-    python3 pull_push.py 0 $host
-
     echo -e "\033[32m Pull eseguita correttamente. \033[0m"
 else
 
@@ -29,10 +28,6 @@ else
      git add ./*
      git commit -m 'Update'
      git push
-
-     chmod +x pull_push.py
-     python3 pull_push.py 3 $host
-
      echo -e "\033[32m Commit & Push eseguito \033[0m"
 
 fi
