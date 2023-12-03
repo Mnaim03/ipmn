@@ -262,48 +262,6 @@ def ads2():
   link_m3u8=""
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
 
-def skyf1():
-  file='ch/sport.m3u8'
-  tvgid='skyf1' #nome canale
-  stream="https://ggsport.tv/live-tv/sky-sports-f1" #link pagina da cui estrarre 
-  link_m3u8="https://nl.score911.cc/uk_ssf1/tracks-v1a1/mono.m3u8"
-  subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
-
-def tnt1():
-  file='ch/sport.m3u8'
-  tvgid='tnt1' #nome canale
-  stream="https://ggsport.tv/live-tv/tnt-sport-1" #link pagina da cui estrarre 
-  link_m3u8="https://nl.score911.cc/uk_bts1/tracks-v1a1/mono.m3u8"
-  subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
-
-def tnt2():
-  file='ch/sport.m3u8'
-  tvgid='tnt2' #nome canale
-  stream="https://ggsport.tv/live-tv/tnt-sport-2" #link pagina da cui estrarre 
-  link_m3u8="https://nl.score911.cc/uk_bts2/tracks-v1a1/mono.m3u8"
-  subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
-
-def tnt3():
-  file='ch/sport.m3u8'
-  tvgid='tnt3' #nome canale
-  stream="https://ggsport.tv/live-tv/tnt-sport-3" #link pagina da cui estrarre 
-  link_m3u8="https://nl.score911.cc/uk_bts3/tracks-v1a1/mono.m3u8"
-  subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
-
-def beinfr1():
-  file='ch/sport.m3u8'
-  tvgid='beinfr1' #nome canale
-  stream="https://ggsport.tv/live-tv/bein-sports-1" #link pagina da cui estrarre 
-  link_m3u8="https://nl.score911.cc/fr_beinsports1/tracks-v1a1/mono.m3u8"
-  subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
-
-def beinfr2():
-  file='ch/sport.m3u8'
-  tvgid='beinfr2' #nome canale
-  stream="https://ggsport.tv/live-tv/bein-sports-2" #link pagina da cui estrarre 
-  link_m3u8="https://nl.score911.cc/fr_beinsports2/tracks-v1a1/mono.m3u8"
-  subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
-
 
 
 def cinema():
@@ -312,13 +270,13 @@ def cinema():
   stream="https://www.elahmad.com/tv/watchtv.php?id=rotana_cinema" #link pagina da cui estrarre 
   link_m3u8="https://daiconnect.com/live/hls/rotana/cinema-ksa/088fc425900dc92b37981c5043d969dd/.m3u8?requestuid=c70abcb5-64bb-4596-9d36-9f8c25032fe4"
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
-#spento
+
 def rhd():
   file='ch/rotana.m3u8'
   tvgid='hd+' #nome canale
   stream="https://www.elahmad.com/tv/live/live_stream.php?id=rotana_hd_plus" #link pagina da cui estrarre 
   link_m3u8=""
-  #subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
+  subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
 
 def comedy():
   file='ch/rotana.m3u8'
@@ -369,13 +327,7 @@ ssc2()
 ssc3()
 ads1()
 ads2()
-skyf1()
-tnt1()
-tnt2()
-tnt3()
-beinfr1()
-beinfr2()
 
 cinema()
-rhd()
+#rhd()
 comedy()
