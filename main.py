@@ -3,10 +3,6 @@
 #gestisco tutti i canali 
 import subprocess
 import sys
-#mbc4you --> mbc2
-#elahmad
-#dagav --> mtv, al jadeed
-#fomny-tv.com -->lbci
 
 # Chiamata al file bash con valori passati come argomenti
 
@@ -125,7 +121,7 @@ def mbc2():
   tvgid='mbc2' #nome canale
   #stream="https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc2_tv_1" #elahmad
   stream="http://live.multies.net/ent-ch/mbc-ch/mbc2/" #live.multies.net
-  #link_m3u8="http://multies.xyz/live/68BA1E5E2B26F84339925A947BF1BBEB/131.m3u8" 
+
   link_m3u8="" 
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
 
@@ -164,7 +160,7 @@ def mbcaction():
   #stream="https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbcaction_tv_1" #elahmad
   stream="http://live.multies.net/ent-ch/mbc-ch/mbc-action/" #live.multies.net 
   link_m3u8=""
-  #subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
+  subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
 
 def mbcvariety():
   file='ch/mbc.m3u8'
@@ -266,6 +262,48 @@ def ads2():
   link_m3u8=""
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
 
+def skyf1():
+  file='ch/sport.m3u8'
+  tvgid='skyf1' #nome canale
+  stream="https://ggsport.tv/live-tv/sky-sports-f1" #link pagina da cui estrarre 
+  link_m3u8="https://nl.score911.cc/uk_ssf1/tracks-v1a1/mono.m3u8"
+  subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
+
+def tnt1():
+  file='ch/sport.m3u8'
+  tvgid='tnt1' #nome canale
+  stream="https://ggsport.tv/live-tv/tnt-sport-1" #link pagina da cui estrarre 
+  link_m3u8="https://nl.score911.cc/uk_bts1/tracks-v1a1/mono.m3u8"
+  subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
+
+def tnt2():
+  file='ch/sport.m3u8'
+  tvgid='tnt2' #nome canale
+  stream="https://ggsport.tv/live-tv/tnt-sport-2" #link pagina da cui estrarre 
+  link_m3u8="https://nl.score911.cc/uk_bts2/tracks-v1a1/mono.m3u8"
+  subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
+
+def tnt3():
+  file='ch/sport.m3u8'
+  tvgid='tnt3' #nome canale
+  stream="https://ggsport.tv/live-tv/tnt-sport-3" #link pagina da cui estrarre 
+  link_m3u8="https://nl.score911.cc/uk_bts3/tracks-v1a1/mono.m3u8"
+  subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
+
+def beinfr1():
+  file='ch/sport.m3u8'
+  tvgid='beinfr1' #nome canale
+  stream="https://ggsport.tv/live-tv/bein-sports-1" #link pagina da cui estrarre 
+  link_m3u8="https://nl.score911.cc/fr_beinsports1/tracks-v1a1/mono.m3u8"
+  subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
+
+def beinfr2():
+  file='ch/sport.m3u8'
+  tvgid='beinfr2' #nome canale
+  stream="https://ggsport.tv/live-tv/bein-sports-2" #link pagina da cui estrarre 
+  link_m3u8="https://nl.score911.cc/fr_beinsports2/tracks-v1a1/mono.m3u8"
+  subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
+
 
 
 def cinema():
@@ -294,44 +332,50 @@ def comedy():
 global i
 i = sys.argv[1]
 
-#manar()
-#alittihad()
-#aljadeed()
-#jarabic()
-#jlive()
-#lbci()
-#mayadeen()
-#mtv()
-#mustakbal()
-#natgeo()
-#nbn()
-#otv()
-#dwarab()
+manar()
+alittihad()
+aljadeed()
+jarabic()
+jlive()
+lbci()
+mayadeen()
+mtv()
+mustakbal()
+natgeo()
+nbn()
+otv()
+dwarab()
 dai3a()
 
-#mbc1()
+mbc1()
 mbc2()
-#mbc3()
-#mbc4()
-#mbc5()
-#mbcmax()
+mbc3()
+mbc4()
+mbc5()
+mbcmax()
 mbcaction()
-#mbcvariety()
-#mbcdrama()
-#mbcmasr()
-#mix()
+mbcvariety()
+mbcdrama()
+mbcmasr()
+mix()
 
-#bein1()
-#bein2()
-#bein3()
-#bein4()
-#bein5()
-#ssc1()
-#ssc2()
-#ssc3()
-#ads1()
-#ads2()
+bein1()
+bein2()
+bein3()
+bein4()
+bein5()
+ssc1()
+ssc2()
+ssc3()
+ads1()
+ads2()
+skyf1()
+tnt1()
+tnt2()
+tnt3()
+beinfr1()
+beinfr2()
 
-#cinema()
-#rhd()
-#comedy()
+cinema()
+rhd()
+comedy()
