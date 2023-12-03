@@ -1,5 +1,5 @@
 
- [ 2023-12-03 - 16:38 ] -->MacOS (m3u8 update) has done a update: 
+ [ 2023-12-03 - 16:53 ] -->MacOS (m3u8 update) has done a update: 
 
  manar --> Estrazione m3u8 ESEGUITA CORRETTAMENTE (✓).
  Link stream fornito: https://www.elahmad.com/tv/almanartv.php
@@ -47,7 +47,7 @@
  Link stream fornito: https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc1_tv_1
 
  mbc2 --> Estrazione m3u8 ESEGUITA CORRETTAMENTE (✓).
- Link stream fornito: https://www.aflam4you.pro/mbc-2-shahid-movies-watchtv_6.html
+ Link stream fornito: http://live.multies.net/ent-ch/mbc-ch/mbc2/
 
  mbc3 --> Estrazione m3u8 ESEGUITA CORRETTAMENTE (✓).
  Link stream fornito: https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc3_tv_1
@@ -59,7 +59,7 @@
  Link stream fornito: https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc5_tv_1
 
  mbc_max --> Estrazione m3u8 ESEGUITA CORRETTAMENTE (✓).
- Link stream fornito: https://www.elahmad.com/tv/watchtv.php?id=mbc_max
+ Link stream fornito: http://multies.xyz/live/68BA1E5E2B26F84339925A947BF1BBEB/135.m3u8
 
  mbc_variety --> Estrazione m3u8 ESEGUITA CORRETTAMENTE (✓).
  Link stream fornito: https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc_variety
@@ -69,6 +69,9 @@
 
  mbc_masr --> Estrazione m3u8 ESEGUITA CORRETTAMENTE (✓).
  Link stream fornito: https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbcmasr_tv_1
+
+ mix --> Estrazione m3u8 ESEGUITA CORRETTAMENTE (✓).
+ Link stream fornito: http://live.multies.net/ent-ch/movies-ch/mix-tv/
 
  bein1 --> Estrazione m3u8 ESEGUITA CORRETTAMENTE (✓).
  Link stream fornito: https://www.elahmad.com/tv/mobiletv/glarb.php?id=bein_m_1

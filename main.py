@@ -107,7 +107,7 @@ def dwarab():
 def dai3a():
   file='ch/arab.m3u8'
   tvgid='dai3a' #nome canale
-  stream="http://live.multies.net/livetv/deiaa-dayea2/" #mexway
+  stream="http://live.multies.net/livetv/deiaa-dayea2/" #live.multies.net
   link_m3u8="http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/728.m3u8"
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
 
@@ -124,8 +124,8 @@ def mbc2():
   file='ch/mbc.m3u8'
   tvgid='mbc2' #nome canale
   #stream="https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc2_tv_1" #elahmad
-  stream="https://www.aflam4you.pro/mbc-2-shahid-movies-watchtv_6.html" #aflam4you
-  link_m3u8="" 
+  stream="http://live.multies.net/ent-ch/mbc-ch/mbc2/" #live.multies.net
+  link_m3u8="http://multies.xyz/live/68BA1E5E2B26F84339925A947BF1BBEB/131.m3u8" 
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
 
 def mbc3():
@@ -152,14 +152,16 @@ def mbc5():
 def mbcmax():
   file='ch/mbc.m3u8'
   tvgid='mbc_max' #nome canale
-  stream="https://www.elahmad.com/tv/watchtv.php?id=mbc_max" #elahmad 
-  link_m3u8=""
+  #stream="https://www.elahmad.com/tv/watchtv.php?id=mbc_max" #elahmad 
+  stream="http://multies.xyz/live/68BA1E5E2B26F84339925A947BF1BBEB/135.m3u8" #live.multies.net 
+  link_m3u8="http://multies.xyz/live/68BA1E5E2B26F84339925A947BF1BBEB/135.m3u8"
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
-#spento
+
 def mbcaction():
   file='ch/mbc.m3u8'
   tvgid='mbc_action' #nome canale
-  stream="https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbcaction_tv_1" #elahmad
+  #stream="https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbcaction_tv_1" #elahmad
+  stream="http://live.multies.net/ent-ch/mbc-ch/mbc-action/" #live.multies.net 
   link_m3u8=""
   #subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
 
@@ -182,6 +184,13 @@ def mbcmasr():
   tvgid='mbc_masr' #nome canale
   stream="https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbcmasr_tv_1" #link pagina da cui estrarre 
   link_m3u8="https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_29.m3u8"
+  subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
+
+def mix():
+  file='ch/mbc.m3u8'
+  tvgid='mix' #nome canale
+  stream="http://live.multies.net/ent-ch/movies-ch/mix-tv/" #live.multies.net 
+  link_m3u8="http://multies.xyz/live/741173B18278973CC222794CE9FA7C15/167.m3u8"
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
 
 
@@ -309,6 +318,7 @@ mbcaction()
 mbcvariety()
 mbcdrama()
 mbcmasr()
+mix()
 
 bein1()
 bein2()
