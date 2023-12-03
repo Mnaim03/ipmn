@@ -10,6 +10,23 @@
  <a href="ch/out/log.html"><button>LOGS</button></a>
  <a href="ch/out/status.html"><button>STATUS</button></a>
  <a href="ch/out/pull_push.html"><button>PULL & PUSH</button></a>
- 
+ <button onclick="copyLink()">Copia Link</button>
+
+
+ <script>
+
+    var linkToCopy = 'https://mnaim03.github.io/ipmn/ch/mono.m3u8';
+    function copyLink() {
+      try {
+        navigator.clipboard.writeText(linkToCopy).then(function() {
+          alert('Link m3u8 copiato.');
+        });
+      } catch (err) {
+        console.error('Errore nella copia del link: ', err);
+      }
+    }
+
+</script>
+
 </body>
 </html>
