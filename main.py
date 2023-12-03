@@ -104,6 +104,12 @@ def dwarab():
   link_m3u8="https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8"
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
 
+def mix():
+  file='ch/mbc.m3u8'
+  tvgid='mix' #nome canale
+  stream="https://mexawy.online/2021/01/%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D9%82%D9%86%D8%A7%D8%A9-%D8%A8%D9%88%D9%83%D8%B3-%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-box-movies-live.html" #mexway
+  link_m3u8=""
+  subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
 
 def mbc1():
   file='ch/mbc.m3u8'
@@ -115,8 +121,9 @@ def mbc1():
 def mbc2():
   file='ch/mbc.m3u8'
   tvgid='mbc2' #nome canale
-  stream="https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc2_tv_1" #elahmad
-  link_m3u8="https://cloud.maxtvs.net:443/live/383D5B0B03DA4428E8812881F28F01DF/302.m3u8" #maxtvs
+  #stream="https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc2_tv_1" #elahmad
+  stream="https://mexawy.online/2019/01/%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%85-%D8%A8%D9%89-%D8%B3%D9%89-2-%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-2-mbc.html" #mexawy
+  link_m3u8="" #
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
 
 def mbc3():
@@ -143,16 +150,18 @@ def mbc5():
 def mbcmax():
   file='ch/mbc.m3u8'
   tvgid='mbc_max' #nome canale
-  stream="https://www.elahmad.com/tv/watchtv.php?id=mbc_max" #link pagina da cui estrarre 
+  #stream="https://www.elahmad.com/tv/watchtv.php?id=mbc_max" #elahmad 
+  stream="https://mexawy.online/2019/01/%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%85-%D8%A8%D9%89-%D8%B3%D9%89-%D9%85%D8%A7%D9%83%D8%B3-%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-mbc-max2.html" #maxawy 
   link_m3u8=""
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
 
 def mbcaction():
   file='ch/mbc.m3u8'
   tvgid='mbc_action' #nome canale
-  stream="https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbcaction_tv_1" #link pagina da cui estrarre 
+  #stream="https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbcaction_tv_1" #elahmad
+  stream="https://mexawy.online/2019/01/%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%85-%D8%A8%D9%89-%D8%B3%D9%89-%D8%A7%D9%83%D8%B4%D9%86-%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-mbc-actio.html" #maxawy
   link_m3u8=""
-  #subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
+  subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
 
 def mbcvariety():
   file='ch/mbc.m3u8'
@@ -256,6 +265,7 @@ def cinema():
   link_m3u8="https://daiconnect.com/live/hls/rotana/cinema-ksa/088fc425900dc92b37981c5043d969dd/.m3u8?requestuid=c70abcb5-64bb-4596-9d36-9f8c25032fe4"
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
 
+#rhd fermo
 def rhd():
   file='ch/rotana.m3u8'
   tvgid='hd+' #nome canale
@@ -289,6 +299,7 @@ nbn()
 otv()
 dwarab()
 
+mix()
 mbc1()
 mbc2()
 mbc3()

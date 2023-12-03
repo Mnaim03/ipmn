@@ -1,5 +1,5 @@
 
- [ 2023-12-03 - 14:46 ] -->MacOS (m3u8 update) has done a update: 
+ [ 2023-12-03 - 15:40 ] -->MacOS (m3u8 update) has done a update: 
 
  manar --> Estrazione m3u8 ESEGUITA CORRETTAMENTE (✓).
  Link stream fornito: https://www.elahmad.com/tv/almanartv.php
@@ -40,11 +40,14 @@
  dw_arab --> Estrazione m3u8 ESEGUITA CORRETTAMENTE (✓).
  Link stream fornito: https://www.elahmad.com/tv/arabic-tv-online.php?id=dwtvarabia
 
+ mix --> Estrazione m3u8 ESEGUITA CORRETTAMENTE (✓).
+ Link stream fornito: https://mexawy.online/2021/01/%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D9%82%D9%86%D8%A7%D8%A9-%D8%A8%D9%88%D9%83%D8%B3-%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-box-movies-live.html
+
  mbc1 --> Estrazione m3u8 ESEGUITA CORRETTAMENTE (✓).
  Link stream fornito: https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc1_tv_1
 
  mbc2 --> Estrazione m3u8 ESEGUITA CORRETTAMENTE (✓).
- Link stream fornito: https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc2_tv_1
+ Link stream fornito: https://mexawy.online/2019/01/%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%85-%D8%A8%D9%89-%D8%B3%D9%89-2-%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-2-mbc.html
 
  mbc3 --> Estrazione m3u8 ESEGUITA CORRETTAMENTE (✓).
  Link stream fornito: https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc3_tv_1
@@ -56,7 +59,10 @@
  Link stream fornito: https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc5_tv_1
 
  mbc_max --> Estrazione m3u8 ESEGUITA CORRETTAMENTE (✓).
- Link stream fornito: https://www.elahmad.com/tv/watchtv.php?id=mbc_max
+ Link stream fornito: https://mexawy.online/2019/01/%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%85-%D8%A8%D9%89-%D8%B3%D9%89-%D9%85%D8%A7%D9%83%D8%B3-%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-mbc-max2.html
+
+ mbc_action --> Estrazione m3u8 ESEGUITA CORRETTAMENTE (✓).
+ Link stream fornito: https://mexawy.online/2019/01/%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%85-%D8%A8%D9%89-%D8%B3%D9%89-%D8%A7%D9%83%D8%B4%D9%86-%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-mbc-actio.html
 
  mbc_variety --> Estrazione m3u8 ESEGUITA CORRETTAMENTE (✓).
  Link stream fornito: https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc_variety
