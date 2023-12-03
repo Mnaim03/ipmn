@@ -32,7 +32,7 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_
 
 
 #EXTINF:-2 tvg-id="skyf1" group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_F1_-_Logo_2018.svg/1280px-Sky_Sport_F1_-_Logo_2018.svg.png", Sky Sport F1
-https://nl.score911.cc/uk_ssf1/tracks-v1a1/mono.m3u8
+https://raw.githubusercontent.com/Mnaim03/ipmn/main/ch/filem3u/skyf1.m3u8
 
 #EXTINF:-2 tvg-id="tnt1" group-title="SPORT" tvg-logo="https://media.info/l/o/1/1539.1690027797.png", TNT 1
 https://nl.score911.cc/uk_bts1/tracks-v1a1/mono.m3u8
