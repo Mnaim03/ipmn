@@ -116,8 +116,7 @@ def mbc2():
   file='ch/mbc.m3u8'
   tvgid='mbc2' #nome canale
   stream="https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc2_tv_1" #elahmad
-  #stream="https://www.mbc4you.com/mbc-2-shahid-movies-radan-2023_6.html" #mbc4you
-  link_m3u8=""
+  link_m3u8="https://cloud.maxtvs.net:443/live/383D5B0B03DA4428E8812881F28F01DF/302.m3u8" #maxtvs
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
 
 def mbc3():
@@ -182,35 +181,35 @@ def bein1():
   file='ch/sport.m3u8'
   tvgid='bein1' #nome canale
   stream="https://www.elahmad.com/tv/mobiletv/glarb.php?id=bein_m_1" #link pagina da cui estrarre 
-  link_m3u8="https://stream.ayas.ir/hls2/beinsport1.m3u8"
+  link_m3u8="https://stream.ayas.ir/hls2/ayas1.m3u8"
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
 
 def bein2():
   file='ch/sport.m3u8'
   tvgid='bein2' #nome canale
   stream="https://www.elahmad.com/tv/mobiletv/glarb.php?id=bein_m_2" #link pagina da cui estrarre 
-  link_m3u8="https://stream.ayas.ir/hls2/beinsport2.m3u8"
+  link_m3u8="https://stream.ayas.ir/hls2/ayas2.m3u8"
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
 
 def bein3():
   file='ch/sport.m3u8'
   tvgid='bein3' #nome canale
   stream="https://www.elahmad.com/tv/mobiletv/glarb.php?id=bein_m_3" #link pagina da cui estrarre 
-  link_m3u8="https://stream.ayas.ir/hls2/beinsport3.m3u8"
+  link_m3u8="https://stream.ayas.ir/hls2/ayas3.m3u8"
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
 
 def bein4():
   file='ch/sport.m3u8'
   tvgid='bein4' #nome canale
   stream="https://www.elahmad.com/tv/mobiletv/glarb.php?id=bein_m_4" #link pagina da cui estrarre 
-  link_m3u8="https://stream.ayas.ir/hls2/beinsport4.m3u8"
+  link_m3u8="https://stream.ayas.ir/hls2/ayas4.m3u8"
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
 
 def bein5():
   file='ch/sport.m3u8'
   tvgid='bein5' #nome canale
   stream="https://www.elahmad.com/tv/mobiletv/glarb.php?id=bein_m_5" #link pagina da cui estrarre 
-  link_m3u8="https://stream.ayas.ir/hls2/beinsport5.m3u8"
+  link_m3u8="https://stream.ayas.ir/hls2/ayas5.m3u8"
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
 
 def ssc1():
