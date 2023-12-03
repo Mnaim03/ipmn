@@ -42,6 +42,9 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/strea
 #EXTINF:-6 tvg-id="dai3a" group-title="ARABIC" tvg-logo="https://lh3.googleusercontent.com/i2ETFKv0k7XBu8GvTsPcWiIsP6dVuMOKm_kaExAkAKta8Sjd1QHx3s6sTZPRjuwDqQ", ضيعة ضايعة
 http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/728.m3u8
 
+#EXTINF:-6 tvg-id="3adel" group-title="ARABIC" tvg-logo="https://m.gomhuriaonline.com/Upload/News/12-11-2021_00_34_26_GomhuriaOnline_311636670066.jpg", قناة الزعيم عادل إمام
+http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/728.m3u8
+
 
 #EXTINF:-2 tvg-id="mbc1" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/640px-Mbc1logo.png",MBC 1
 https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_7.m3u8
@@ -106,25 +109,6 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_
 
 #EXTINF:-2 tvg-id="ads2" group-title="SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Abudhabisports2015.png/revision/latest?cb=20200428142713", AD Sports 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
-
-
-#EXTINF:-2 tvg-id="skyf1" group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_F1_-_Logo_2018.svg/1280px-Sky_Sport_F1_-_Logo_2018.svg.png", Sky Sport F1
-https://nl.score911.cc/uk_ssf1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-2 tvg-id="tnt1" group-title="SPORT" tvg-logo="https://media.info/l/o/1/1539.1690027797.png", TNT 1
-https://nl.score911.cc/uk_bts1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-2 tvg-id="tnt2" group-title="SPORT" tvg-logo="https://media.info/l/o/1/1540.1690027877.png", TNT 2
-https://nl.score911.cc/uk_bts2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-2 tvg-id="tnt3" group-title="SPORT" tvg-logo="https://media.info/l/o/5/5712.1690027954.png", TNT 3
-https://nl.score911.cc/uk_bts3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-2 tvg-id="beinfr1" group-title="SPORT" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_FRENCH_Digital_Mono.png", beIN 1 (FRACE)
-https://nl.score911.cc/fr_beinsports1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-2 tvg-id="beinfr2" group-title="SPORT" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F211%2Fbein-sports-french-1.png", beIN 2 (FRACE)
-https://nl.score911.cc/fr_beinsports2/tracks-v1a1/mono.m3u8
 
 
 

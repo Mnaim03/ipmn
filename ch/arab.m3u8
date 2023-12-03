@@ -41,3 +41,6 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/strea
 
 #EXTINF:-6 tvg-id="dai3a" group-title="ARABIC" tvg-logo="https://lh3.googleusercontent.com/i2ETFKv0k7XBu8GvTsPcWiIsP6dVuMOKm_kaExAkAKta8Sjd1QHx3s6sTZPRjuwDqQ", ضيعة ضايعة
 http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/728.m3u8
+
+#EXTINF:-6 tvg-id="3adel" group-title="ARABIC" tvg-logo="https://m.gomhuriaonline.com/Upload/News/12-11-2021_00_34_26_GomhuriaOnline_311636670066.jpg", قناة الزعيم عادل إمام
+http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/728.m3u8

@@ -107,6 +107,13 @@ def dai3a():
   link_m3u8="http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/728.m3u8"
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
 
+def 3adel():
+  file='ch/arab.m3u8'
+  tvgid='3adel' #nome canale
+  stream="http://live.multies.net/ent-ch/movies-ch/alzaeem-tv/" #live.multies.net
+  link_m3u8="http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/794.m3u8"
+  subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
+
 
 
 def mbc1():
@@ -304,6 +311,7 @@ nbn()
 otv()
 dwarab()
 dai3a()
+3adel()
 
 mbc1()
 mbc2()
