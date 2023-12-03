@@ -41,11 +41,11 @@ for link in links:
         if href and ('javascript:' not in href):
 
             #la condizione dell'if è il filtro dei vari link
-            if href.startswith('https://cdn1.ipslow.com/tv') or href.startswith('https://micro.kooooora4you.live/') or href.startswith('https://micro.kooooora4you.live/') or href.startswith('https://tv.ipslow.com/tv') or href.endswith('.m3u8') or href.startswith('https://playback2.akamaized'):
+            if href.startswith('https://cdn1.ipslow.com/tv') or href.startswith('http://multies.xyz') or href.startswith('https://tv.ipslow.com/tv') or href.endswith('.m3u8') or href.startswith('https://playback2.akamaized'):
                 print(href)  # Stampa il link se soddisfa i criteri
     except StaleElementReferenceException:
         print("Elemento non più valido, continuo con il prossimo elemento...")
         continue
-http://multies.xyz
+
 time.sleep(6) #protezione anti ip-ban
 browser.quit()
