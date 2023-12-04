@@ -1,0 +1,27 @@
+/*Font google*/
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap');
+
+body {
+    background-color: #181818;
+  }
+
+  /* index div */
+.content button {
+    /* gli do dei margini */
+    margin-top: 1ch;
+    margin-bottom: 1ch; 
+
+    /*gli do una larghezza/lunghezza*/
+    height: 5ch;
+    width: 90%;
+
+    /*font */
+    font-size: 4ch;
+    font-family: 'IBM Plex Mono', monospace;
+}
+
+/* index butttons */
+.menu{
+  color: #181818;
+  font-weight: bolder;
+}
