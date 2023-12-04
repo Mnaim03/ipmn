@@ -12,9 +12,9 @@ def data(): # Ottieni data atuale
 def printinfo(i,host,time): #stampa nel file
   with open('ch/out/pull_push.txt', 'a') as file:
         if i == 0:
-            file.write(f'\n<br><p class="txtlog">🔼PULL---<font class="smalldata">{time}</font>:{host}</p><br>')
+            file.write(f'\n<br><p class="txtlog">🔼PULL <font class="smalldata">{time}</font>:{host}</p>')
         else:
-            file.write(f'\n<br><p class="txtlog">🔽PUSH---<font class="smalldata">{time}</font>:{host}</p><br>')
+            file.write(f'\n<br><p class="txtlog">🔽PUSH <font class="smalldata">{time}</font>:{host}</p>')
 
 #main
 try:
