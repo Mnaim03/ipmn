@@ -14,7 +14,7 @@ def printinfo(i,host,time): #stampa nel file
         if i == 0:
             file.write(f'\n<br><p class="txtlog">🔼PULL <font class="smalldata">{time}</font>:{host}</p>')
         else:
-            file.write(f'\n<br><p class="txtlog">🔽PUSH <font class="smalldata">{time}</font>:{host}</p>')
+            file.write(f'\n<p class="txtlog">🔽PUSH <font class="smalldata">{time}</font>:{host}</p><br>')
 
 #main
 try:
