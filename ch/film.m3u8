@@ -1,7 +1,10 @@
 #EXTM3U
 
-#EXTINF:-2  group-title="FILMS" tvg-logo="https://ww.tuktukcima.com/wp-content/uploads/2023/06/MV5BNmY4NTlkNTEtNDBjMS00ZTJiLWFlZDMtNWY0MWFlZmNjMTFlXkEyXkFqcGdeQXVyMzQxODQzMTE@.jpg_V1_SX700.jpg", Nefarious (2023)
-https://dhstrhsthshsz.sw-cdnstream.com/hls2/01/01201/94p7bqd8xvb8_,n,h,.urlset/index-f1-v1-a1.m3u8?t=IyOUPIopikF2G-RGU3r6ZqLR1nqNB_tM89hL0HPW3M8&s=1701511965&e=129600&f=6006407&srv=yuogxozewfce&i=0.4&sp=500&p1=yuogxozewfce&p2=yuogxozewfce&asn=3269
-
 #EXTINF:-2  group-title="FILMS" tvg-logo="https://ww.tuktukcima.com/wp-content/uploads/2023/01/MV5BZGFmNmRlZmQtMDAyYy00NTJjLTg2ODQtZDI0OWE3M2I2NDcyXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_SX700.jpg", Operation Fortune: Ruse de guerre (2023)
 https://no6x-01.vidsharcdn.com/hls/pdomng2qpkm4f4kmlh6sfotwg5o6wilgs5eh7vqalyb5uzwwc76ikpbywi5a/index-v1-a1.m3u8
+
+#EXTINF:-2  group-title="FILMS" tvg-logo="https://ww.tuktukcima.com/wp-content/uploads/2023/01/MV5BZDg2YThlMTItYzhhMy00OWE3LTljYTAtYTExMDM5NzRjOGFhXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_SX700.jpg", The Pale Blue Eye (2023)
+https://s97.upstreamcdn.co/hls2/01/04298/dh3z0seh8e53_n/index-v1-a1.m3u8?t=nzWPqSOJZRdeDKavwnq45pWW9d4f2pkilskjQL9pbp4&s=1701705164&e=10800&f=21490525&i=0.0&sp=0
+
+#EXTINF:-2  group-title="FILMS" tvg-logo="https://ww.tuktukcima.com/wp-content/uploads/2022/12/MV5BYWY4ZWRmNjItZGNjNC00NjM1LWFmZDctYWVhZDRkMmUxM2FiXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_SX700.jpg", Mindcage (2022)
+https://no6x-01.top15.shop/hls/pdomp4ltpom4f4kmlhgcf2zgfep4zluukgk4xpfxi2f5nb7htpmzaslknxfa/index-v1-a1.m3u8
