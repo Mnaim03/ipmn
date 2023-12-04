@@ -1,116 +1,116 @@
 
-<div class=content container text-center><p><font class=bigdata>{time}</font><br><font class=user>{user} has done a update</font></p></div>
+<div class="content container text-center"><p><font class="bigdata">[ 2023-12-04 - 15:12 ]</font><br><font class="user">MacOS (m3u8 update) has done a update</font></p></div><br>
 
-<div class="content container text-center"><p class="h7"><font class="channel h2"> manar </font>
+<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> manar </font>
 <a href="https://www.elahmad.com/tv/almanartv.php"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
-<div class="content container text-center"><p class="h7"><font class="channel h2"> al_ittihad </font>
+<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> al_ittihad </font>
 <a href="https://www.elahmad.com/tv/mobiletv/glarb.php?id=alittihad"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
-<div class="content container text-center"><p class="h7"><font class="channel h2"> al_jadeed </font>
+<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> al_jadeed </font>
 <a href="http://www.elahmad.com/tv/newtv.php"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
-<div class="content container text-center"><p class="h7"><font class="channel h2"> jazeera_arabic </font>
+<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> jazeera_arabic </font>
 <a href="https://www.elahmad.com/tv/mobiletv/glarb.php?id=aljazeer_ar1"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
-<div class="content container text-center"><p class="h7"><font class="channel h2"> jazeera_live </font>
+<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> jazeera_live </font>
 <a href="https://www.elahmad.com/tv/aljazeera_mubasher.htm"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
-<div class="content container text-center"><p class="h7"><font class="channel h2"> lbci </font>
+<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> lbci </font>
 <a href="https://www.elahmad.com/tv/mobiletv/glarb.php?id=lbc_1"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
-<div class="content container text-center"><p class="h7"><font class="channel h2"> mayadeen </font>
+<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> mayadeen </font>
 <a href="https://www.elahmad.com/tv/mobiletv/glarb.php?id=almayadeen1"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
-<div class="content container text-center"><p class="h7"><font class="channel h2"> mtv </font>
+<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> mtv </font>
 <a href="https://www.elahmad.com/tv/mtvlebanon.htm"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
-<div class="content container text-center"><p class="h7"><font class="channel h2"> mustakbal </font>
+<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> mustakbal </font>
 <a href="https://www.elahmad.com/tv/futurelive.php"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
-<div class="content container text-center"><p class="h7"><font class="channel h2"> natgeo </font>
+<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> natgeo </font>
 <a href="https://www.elahmad.com/tv/mobiletv/glarb.php?id=natgeo_1"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
-<div class="content container text-center"><p class="h7"><font class="channel h2"> nbn </font>
+<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> nbn </font>
 <a href="https://www.elahmad.com/tv/mobiletv/glarb.php?id=nbn"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
-<div class="content container text-center"><p class="h7"><font class="channel h2"> otv </font>
+<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> otv </font>
 <a href="https://www.elahmad.com/tv/mobiletv/glarb.php?id=otv_lb1"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
-<div class="content container text-center"><p class="h7"><font class="channel h2"> dw_arab </font>
+<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> dw_arab </font>
 <a href="https://www.elahmad.com/tv/arabic-tv-online.php?id=dwtvarabia"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
-<div class="content container text-center"><p class="h7"><font class="channel h2"> dai3a </font>
+<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> dai3a </font>
 <a href="http://live.multies.net/livetv/deiaa-dayea2/"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
-<div class="content container text-center"><p class="h7"><font class="channel h2"> 3adel </font>
+<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> 3adel </font>
 <a href="http://live.multies.net/ent-ch/movies-ch/alzaeem-tv/"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
-<div class="content container text-center"><p class="h7"><font class="channel h2"> mbc1 </font>
+<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> mbc1 </font>
 <a href="https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc1_tv_1"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
-<div class="content container text-center"><p class="h7"><font class="channel h2"> mbc2 </font>
+<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> mbc2 </font>
 <a href="http://live.multies.net/ent-ch/mbc-ch/mbc2/"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
-<div class="content container text-center"><p class="h7"><font class="channel h2"> mbc3 </font>
+<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> mbc3 </font>
 <a href="https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc3_tv_1"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
-<div class="content container text-center"><p class="h7"><font class="channel h2"> mbc4 </font>
+<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> mbc4 </font>
 <a href="https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc4_tv_1"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
-<div class="content container text-center"><p class="h7"><font class="channel h2"> mbc5 </font>
+<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> mbc5 </font>
 <a href="https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc5_tv_1"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
-<div class="content container text-center"><p class="h7"><font class="channel h2"> mbc_max </font>
+<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> mbc_max </font>
 <a href="http://multies.xyz/live/68BA1E5E2B26F84339925A947BF1BBEB/135.m3u8"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
-<div class="content container text-center"><p class="h7"><font class="channel h2"> mbc_action </font>
+<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> mbc_action </font>
 <a href="http://live.multies.net/ent-ch/mbc-ch/mbc-action/"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
-<div class="content container text-center"><p class="h7"><font class="channel h2"> mbc_variety </font>
+<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> mbc_variety </font>
 <a href="https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc_variety"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
-<div class="content container text-center"><p class="h7"><font class="channel h2"> mbc_drama </font>
+<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> mbc_drama </font>
 <a href="https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbcdrama_tv_1"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
-<div class="content container text-center"><p class="h7"><font class="channel h2"> mbc_masr </font>
+<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> mbc_masr </font>
 <a href="https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbcmasr_tv_1"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
-<div class="content container text-center"><p class="h7"><font class="channel h2"> mix </font>
+<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> mix </font>
 <a href="http://live.multies.net/ent-ch/movies-ch/mix-tv/"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
-<div class="content container text-center"><p class="h7"><font class="channel h2"> bein1 </font>
+<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> bein1 </font>
 <a href="https://www.elahmad.com/tv/mobiletv/glarb.php?id=bein_m_1"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
-<div class="content container text-center"><p class="h7"><font class="channel h2"> bein2 </font>
+<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> bein2 </font>
 <a href="https://www.elahmad.com/tv/mobiletv/glarb.php?id=bein_m_2"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
-<div class="content container text-center"><p class="h7"><font class="channel h2"> bein3 </font>
+<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> bein3 </font>
 <a href="https://www.elahmad.com/tv/mobiletv/glarb.php?id=bein_m_3"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
-<div class="content container text-center"><p class="h7"><font class="channel h2"> bein4 </font>
+<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> bein4 </font>
 <a href="https://www.elahmad.com/tv/mobiletv/glarb.php?id=bein_m_4"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
-<div class="content container text-center"><p class="h7"><font class="channel h2"> bein5 </font>
+<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> bein5 </font>
 <a href="https://www.elahmad.com/tv/mobiletv/glarb.php?id=bein_m_5"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
-<div class="content container text-center"><p class="h7"><font class="channel h2"> ssc1 </font>
+<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> ssc1 </font>
 <a href="https://ayas.ir/sp/ayasktv.php?link=https://af.ayassport.ir/hls2/ssc1.m3u8&title=Ayas%20sport"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
-<div class="content container text-center"><p class="h7"><font class="channel h2"> ssc2 </font>
+<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> ssc2 </font>
 <a href="https://www.elahmad.com/tv/mobiletv/glarb.php?id=ssc_sports_2"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
-<div class="content container text-center"><p class="h7"><font class="channel h2"> ssc3 </font>
+<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> ssc3 </font>
 <a href="https://www.elahmad.com/tv/mobiletv/glarb.php?id=ssc_sports_3"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
-<div class="content container text-center"><p class="h7"><font class="channel h2"> ads1 </font>
+<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> ads1 </font>
 <a href="https://www.elahmad.com/tv/mobiletv/glarb.php?id=abudhabi_sports1"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
-<div class="content container text-center"><p class="h7"><font class="channel h2"> ads2 </font>
+<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> ads2 </font>
 <a href="https://www.elahmad.com/tv/mobiletv/glarb.php?id=abudhabi_sports2"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
-<div class="content container text-center"><p class="h7"><font class="channel h2"> cinema </font>
+<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> cinema </font>
 <a href="https://www.elahmad.com/tv/watchtv.php?id=rotana_cinema"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
-<div class="content container text-center"><p class="h7"><font class="channel h2"> comedy </font>
+<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> comedy </font>
 <a href="https://www.elahmad.com/tv/watchtv.php?id=rotana_comedy"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
