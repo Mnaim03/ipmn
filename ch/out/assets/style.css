@@ -36,7 +36,6 @@ body {
 }
 .smalldata{
   color: purple;
-  font-size: 4ch;
 }
 
 /*utente che ha esuto il procedimento*/
@@ -67,4 +66,9 @@ body {
 
 .logs{
   margin-right: 1ch;
+}
+
+.txtlog{
+  font-size: 4ch;
+  color: aliceblue;
 }

@@ -62,3 +62,5 @@
  PUSH [ 2023-12-04 - 17:05 ] -----> MacOS (m3u8 update)
  PULL [ 2023-12-04 - 20:07 ] -----> MacOS (m3u8 update)
  PUSH [ 2023-12-04 - 20:10 ] -----> MacOS (m3u8 update)
+<br><p class="txtlog">🔼PULL---<font class="smalldata">[ 2023-12-04 - 22:07 ]</font>:MacOS (m3u8 update)</p><br>
+<br><p class="txtlog">🔽PUSH---<font class="smalldata">[ 2023-12-04 - 22:10 ]</font>:MacOS (m3u8 update)</p><br>
