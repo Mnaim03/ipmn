@@ -22,7 +22,7 @@ http://multies.xyz/live/68BA1E5E2B26F84339925A947BF1BBEB/135.m3u8
 http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8
 
 #EXTINF: -2 tvg-id="mbc_variety" group-title="ARABIC" tvg-logo="https://raw.githubusercontent.com/bebawy6/TVLogos/master/MBC-Variety.png",MBC Variety+
-https://cdn1.ipslow.com/tv491_www.elahmad.com_mbc_variety/index.m3u8?token=c64b1558781a3fa8fae5dd94062633a96398fbb1-afafb88e88f40f9afa0cf94b5e7de415-1701680122-1701669322
+https://cdn1.ipslow.com/tv491_www.elahmad.com_mbc_variety/tracks-v1a1/mono.m3u8?token=a9f8b47c6954faadc0de0ca6f7d521b455ce7135-aa8f08b699d291d5e4424670dfcf4051-1701689726-1701678926
 
 #EXTINF:-2 tvg-id="mbc_drama" group-title="ARABIC" tvg-logo="https://seeklogo.com/images/M/mbc-drama-logo-2EE963647C-seeklogo.com.png",MBC Drama
 https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_20.m3u8
