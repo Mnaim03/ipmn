@@ -9,13 +9,13 @@ def data(): # Ottieni data atuale
 
 def txtprintw(): #stampa nel file
   with open('ch/out/status.txt', 'a') as file:
-    file.write(f"\n\n<div class=""content container text-center""><p class=""h7""><font class=""channel h2""> {tvgid} </font>")
-    file.write(f"\n<a href=""{stream}""><button type="button" class=""btn btn-success btnlink"">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>")
+    file.write(f'\n\n<div class="content container text-center"><p class="h7"><font class="channel h2"> {tvgid} </font>')
+    file.write(f'\n<a href="{stream}"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>')
 
 def txtprintf(): #stampa nel file
   with open('ch/out/status.txt', 'a') as file:
-    file.write(f"\n\n<div class=""content container text-center""><p class=""h7""><font class=""channel h2""> {tvgid} </font>")
-    file.write(f"\n<a href=""{stream}""><button type="button" class=""btn btn-danger btnlink"">ESTAZIONE m3u8 NON ESEGUITA(x)</button></a></p></div>")
+    file.write(f'\n\n<div class="content container text-center"><p class="h7"><font class="channel h2"> {tvgid} </font>')
+    file.write(f'\n<a href="{stream}"><button type="button" class="btn btn-danger btnlink">ESTAZIONE m3u8 NON ESEGUITA(x)</button></a></p></div>')
 
 
 def txtwipe(): #pulisci file
