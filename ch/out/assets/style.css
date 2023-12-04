@@ -20,8 +20,40 @@ body {
     font-family: 'IBM Plex Mono', monospace;
 }
 
-/* index butttons */
+/* index buttons */
 .menu{
   color: #181818;
   font-weight: bolder;
+}
+
+/*data procedimento*/
+.bigdata{
+  color: purple;
+  font-size: 6ch;
+}
+
+/*utente che ha esuto il procedimento*/
+.user{
+  color: green;
+  font-size: 4ch;
+}
+
+/*canale telivisivo*/
+.channel{
+  color: black;
+  font-size: 7ch;
+  background-color: darkmagenta;
+}
+
+.btnlink{
+     /* gli do dei margini */
+     margin-top: 1ch;
+     margin-bottom: 1ch; 
+ 
+     /*gli do una larghezza/lunghezza*/
+     height: 4ch;
+     width: 60%;
+ 
+     /*font */
+     font-size: 4ch;
 }
