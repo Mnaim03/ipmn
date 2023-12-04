@@ -1,5 +1,8 @@
 /*Font google*/
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap');
+/*Font icon*/
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.min.css");
+
 
 body {
     background-color: #181818;
@@ -31,6 +34,10 @@ body {
   color: purple;
   font-size: 6ch;
 }
+.smalldata{
+  color: purple;
+  font-size: 4ch;
+}
 
 /*utente che ha esuto il procedimento*/
 .user{
@@ -56,4 +63,8 @@ body {
  
      /*font */
      font-size: 4ch;
+}
+
+.logs{
+  margin-right: 1ch;
 }

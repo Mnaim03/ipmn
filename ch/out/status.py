@@ -9,12 +9,12 @@ def data(): # Ottieni data atuale
 
 def txtprintw(): #stampa nel file
   with open('ch/out/status.txt', 'a') as file:
-    file.write(f'\n\n<div class="content container text-center"><p class="h7"><font class="channel h2"> {tvgid} </font>')
+    file.write(f'\n\n<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> {tvgid} </font>')
     file.write(f'\n<a href="{stream}"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>')
 
 def txtprintf(): #stampa nel file
   with open('ch/out/status.txt', 'a') as file:
-    file.write(f'\n\n<div class="content container text-center"><p class="h7"><font class="channel h2"> {tvgid} </font>')
+    file.write(f'\n\n<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> {tvgid} </font>')
     file.write(f'\n<a href="{stream}"><button type="button" class="btn btn-danger btnlink">ESTAZIONE m3u8 NON ESEGUITA(x)</button></a></p></div>')
 
 
@@ -24,7 +24,7 @@ def txtwipe(): #pulisci file
 
 def print_user():
     with open('ch/out/status.txt', 'a') as file:
-      file.write(f"\n<div class=""content container text-center""><p><font class=""bigdata"">{time}</font><br><font class=""user"">{user} has done a update</font></p></div>")
+      file.write(f'\n<div class="content container text-center"><p><font class="bigdata">{time}</font><br><font class="user">{user} has done a update</font></p></div><br>')
 #main
 i = int(sys.argv[1])
 #se i=0 --> scrivi

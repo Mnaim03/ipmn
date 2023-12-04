@@ -11,26 +11,30 @@
   
   <script>
     window.onload = function() {
-      fetch('log.txt')
-        .then(response => {
-          if (!response.ok) {
-            throw new Error('Errore nel caricamento del file');
-          }
-          return response.text();
-        })
-        .then(data => {
-          document.getElementById('fileContent').textContent = data;
-        })
-        .catch(error => {
-          console.error('Si è verificato un errore:', error);
-        });
-    };
-  </script>
+    fetch('status.txt')
+      .then(response => {
+        if (!response.ok) {
+          throw new Error('Errore nel caricamento del file');
+        }
+        return response.text();
+      })
+      .then(data => {
+        document.getElementById('fileContent').innerHTML = data;
+      })
+      .catch(error => {
+        console.error('Si è verificato un errore:', error);
+      });
+  };
+    </script>
 
 </head>
 <body>
+  <div class="info">
+    <div id="fileContent">
 
-  <pre id="fileContent"></pre>
-
+    </div>
+ </div>
 </body>
 </html>
+
+<!--     <br><div style="logs"><font class="smalldata h3">[ 2023-12-02 - 10:27 ]</font>  MacOS (m3u8 update)</div> -->
