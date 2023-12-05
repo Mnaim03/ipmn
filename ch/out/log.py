@@ -8,7 +8,7 @@ def data(): # Ottieni data atuale
 
 def txtprint(host): #stampa nel file
   with open('ch/out/log.txt', 'a') as file:
-    file.write(f'\n <br><p class="txtlog">🔋<font class="smalldata">{time}</font>:{host}</p><br>')
+    file.write(f'\n <br><p class="txtlog">🔋<font class="smalldata">{time}</font>:{host}</p>')
 
 #main
 host = sys.argv[1]
