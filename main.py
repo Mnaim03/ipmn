@@ -45,7 +45,7 @@ def jlive():
 def lbci():
   file='ch/arab.m3u8'
   tvgid='lbci' #nome canale
-  stream="https://www.elahmad.com/tv/mobiletv/glarb.php?id=lbc_1" #elahmad
+  stream="https://www.elahmad.com/tv/lbc.php" #elahmad
   #stream="http://fomny-tv.com/fomnychannels.com/Ahpop/Ahpop.php?iframe=http://www.elahmad.com/tv/watchtv.php?id=lbc" #fomny-tv.com
   link_m3u8=""
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
