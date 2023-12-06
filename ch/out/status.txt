@@ -1,5 +1,5 @@
 
-<div class="content container text-center"><p><font class="bigdata">[ 2023-12-06 - 21:01 ]</font><br><font class="user">MacOS (m3u8 update) has done a update</font></p></div><br>
+<div class="content container text-center"><p><font class="bigdata">[ 2023-12-06 - 22:43 ]</font><br><font class="user">MacOS (m3u8 update) has done a update</font></p></div><br>
 
 <br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> manar </font>
 <a href="https://www.elahmad.com/tv/almanartv.php"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
@@ -17,7 +17,7 @@
 <a href="https://www.elahmad.com/tv/aljazeera_mubasher.htm"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
 <br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> lbci </font>
-<a href="https://www.elahmad.com/tv/mobiletv/glarb.php?id=lbc_1"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
+<a href="https://www.elahmad.com/tv/lbc.php"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
 <br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> mayadeen </font>
 <a href="https://www.elahmad.com/tv/mobiletv/glarb.php?id=almayadeen1"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
