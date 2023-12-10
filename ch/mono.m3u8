@@ -7,7 +7,7 @@ https://e2.manar.live:9000/live/tracks-v1a1/mono.m3u8
 https://live.alittihad.tv:444/ittihad/index.m3u8
 
 #EXTINF:-2 tvg-id="al_jadeed" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Al_Jadeed.PNG",Al Jadeed
-https://cdn1.ipslow.com/tv491_www.elahmad.com_aljadeed/index.m3u8?token=7cf7125de07b30b2cfda0597142896b2567371e5-92e48da80fc3540660144fc6ad4ab734-1702232956-1702222156
+https://cdn1.ipslow.com/tv491_www.elahmad.com_aljadeed/tracks-v1a1/mono.m3u8?token=82a6ffaac8b5ec17aa1996c1a0b20a544b6599ef-119868d5e93016a1e47cea7eabae64db-1702239108-1702228308
 
 #EXTINF:-2 tvg-id="jazeera_arabic" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0f/Al_Jazeera.svg/1200px-Al_Jazeera.svg.png",Jazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
@@ -16,25 +16,25 @@ https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 
 #EXTINF:-2 tvg-id="lbci" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LBCI_HD_logo.png/640px-LBCI_HD_logo.png",LBCI
-https://cdn1.ipslow.com/tv491_www.elahmad.com_lbc/index.m3u8?token=0acd7702220d0a300802cacbd6c5457095f1eb71-a2e73208569db6db4e081834bd0c0cd9-1702232966-1702222166
+https://cdn1.ipslow.com/tv491_www.elahmad.com_lbc/index.m3u8?token=90fa3e098c52f4c404139f19242a495200105a06-7a34de3cf745523826eae7c23e03d735-1702239117-1702228317
 
 #EXTINF:-2 tvg-id="mayadeen" group-title="ARABIC" tvg-logo="https://ewsat.com/img/AL_MAYADEEN.png",Mayadeen
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b3000000_t64NTQwcA==.m3u8
 
 #EXTINF:-2 tvg-id="mtv" group-title="ARABIC" tvg-logo="https://lebanon.mom-gmr.org/uploads/tx_lfrogmom/media/14023-1409_import.png",MTV
-https://cdn1.ipslow.com/tv491_www.elahmad.com_mtv_lebanon/tracks-v1a1/mono.m3u8?token=1da0c7ea8cb155d0b995f187c49623030763b9bf-0fa0f33ef4c6625824bf5fbcf5f0e842-1702232976-1702222176
+https://cdn1.ipslow.com/tv491_www.elahmad.com_mtv_lebanon/tracks-v1a1/mono.m3u8?token=3bf13810f314506dbdefccdef7acd620660bacb1-169ec99f0f4000acdc1d2ad65d035135-1702239127-1702228327
 
 #EXTINF:-2 tvg-id="mustakbal" group-title="ARABIC" tvg-logo="https://play-lh.googleusercontent.com/qbh5ly7m0BBY7aY0EyrkGP0tgjvFfu1Edz1u8Xmr0ZWtWAue4m-79i9c1TNfNZVpLA=w240-h480-rw",Mustakbal
-https://cdn1.ipslow.com/tv491_www.elahmad.com_future/tracks-v1a1/mono.m3u8?token=2876ba655ba41b9b59952975019efdcb71c5f89b-53af56c66c9b5398a64ce7b543f25d5f-1702232988-1702222188
+https://cdn1.ipslow.com/tv491_www.elahmad.com_future/index.m3u8?token=71294144d6da2a6f8b2423f818992754fb1ff438-f63642fa9daf5ef65736cf863ca70aa9-1702239137-1702228337
 
 #EXTINF:-2 tvg-id="natgeo" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Nat_geo_channel_abu_dhabi.png",National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?adtv
 
 #EXTINF:-2 tvg-id="nbn" group-title="ARABIC" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/NBN-logo.png",NBN
-https://cdn1.ipslow.com/tv491_www.elahmad.com_nbn/index.m3u8?token=b814ab2ed6bd6cb545b8a35d89e66805db59c50a-5886f914ffac5b5d23a53416f9301656-1702232998-1702222198
+https://cdn1.ipslow.com/tv491_www.elahmad.com_nbn/index.m3u8?token=f2f8f7101503febcadbde7c1162768b9a9062e91-1280286c41c7c289baa1242d6559324b-1702239146-1702228346
 
 #EXTINF:-2 tvg-id="otv" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/OTV_%28logo%29.svg/2560px-OTV_%28logo%29.svg.png",OTV
-https://cdn1.ipslow.com/tv491_www.elahmad.com_otv_lebanon/index.m3u8?token=8d6616ac8dd80104c8c00ad1467c3caffb0e4cff-f6cd65e1bfbbabcc1d4be54083d9906b-1702233007-1702222207
+https://cdn1.ipslow.com/tv491_www.elahmad.com_otv_lebanon/tracks-v1a1/mono.m3u8?token=a5b49fefd0b9a4861d1718d8046ce1d08396c1e3-6c214100a0cf45fc081b69e18c97b948-1702239156-1702228356
 
 #EXTINF:-2 tvg-id="dw_arab" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png",DW Arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8
@@ -68,7 +68,7 @@ http://multies.xyz/live/68BA1E5E2B26F84339925A947BF1BBEB/135.m3u8
 http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8
 
 #EXTINF: -2 tvg-id="mbc_variety" group-title="ARABIC" tvg-logo="https://raw.githubusercontent.com/bebawy6/TVLogos/master/MBC-Variety.png",MBC Variety+
-https://cdn1.ipslow.com/tv491_www.elahmad.com_mbc_variety/index.m3u8?token=42d052c23b0f6d9e724d97a3910489c6145fcaad-df1a0a9455c960a207d65ab842bb51d4-1702233069-1702222269
+https://cdn1.ipslow.com/tv491_www.elahmad.com_mbc_variety/index.m3u8?token=495e433cd60cf71664ecaf1db7bc44aba2ff5b71-aef9502af2a282297abf3c3ee53ac385-1702239251-1702228451
 
 #EXTINF:-2 tvg-id="mbc_drama" group-title="ARABIC" tvg-logo="https://seeklogo.com/images/M/mbc-drama-logo-2EE963647C-seeklogo.com.png",MBC Drama
 https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_20.m3u8
@@ -127,9 +127,7 @@ https://rotanastudios-rotanacomedy-1-eu.xiaomi.wurl.tv/8b19722f7772362323148961d
 #EXTINF:-2  group-title="FILMS" tvg-logo="https://ww.tuktukcima.com/wp-content/uploads/2023/01/MV5BZGFmNmRlZmQtMDAyYy00NTJjLTg2ODQtZDI0OWE3M2I2NDcyXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_SX700.jpg", Operation Fortune: Ruse de guerre (2023)
 https://no6x-01.vidsharcdn.com/hls/pdomng2qpkm4f4kmlh6sfotwg5o6wilgs5eh7vqalyb5uzwwc76ikpbywi5a/index-v1-a1.m3u8
 
-#EXTINF:-2  group-title="FILMS" tvg-logo="https://ww.tuktukcima.com/wp-content/uploads/2023/01/MV5BZDg2YThlMTItYzhhMy00OWE3LTljYTAtYTExMDM5NzRjOGFhXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_SX700.jpg", The Pale Blue Eye (2023)
-https://s97.upstreamcdn.co/hls2/01/04298/dh3z0seh8e53_n/index-v1-a1.m3u8?t=nzWPqSOJZRdeDKavwnq45pWW9d4f2pkilskjQL9pbp4&s=1701705164&e=10800&f=21490525&i=0.0&sp=0
+#EXTINF:-2  group-title="FILMS" tvg-logo="https://ww.tuktukcima.com/wp-content/uploads/2022/05/MV5BOGI5N2FhNzktZjZlNi00MmRjLWE1MmUtNjRlNzQyOGMzYjNhXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_FMjpg_UX1000_-.jpg_UY1200-.jpg",Memory 2022 مترجم اون لاين
+https://xz1n1lt2wyak.lions-vidcdn.com/hls2/01/00626/g8ydybzrp8zt_,l,n,.urlset/index-f2-v1-a1.m3u8?t=Eyl6aEHQHClSOxoHYXri0c8Eu_ciXTjSxsa13clwPtM&s=1702228441&e=129600&f=3130861&srv=nx3tvqczgdkl&i=0.4&sp=1500&p1=nx3tvqczgdkl&p2=nx3tvqczgdkl&asn=3269
 
-#EXTINF:-2  group-title="FILMS" tvg-logo="https://ww.tuktukcima.com/wp-content/uploads/2022/12/MV5BYWY4ZWRmNjItZGNjNC00NjM1LWFmZDctYWVhZDRkMmUxM2FiXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_SX700.jpg", Mindcage (2022)
-https://no6x-01.top15.shop/hls/pdomp4ltpom4f4kmlhgcf2zgfep4zluukgk4xpfxi2f5nb7htpmxrkdvnxfa/index-v1-a1.m3u8
 
