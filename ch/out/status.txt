@@ -1,5 +1,5 @@
 
-<div class="content container text-center"><p><font class="bigdata">[ 2023-12-10 - 15:38 ]</font><br><font class="user">MacOS (m3u8 update) has done a update</font></p></div><br>
+<div class="content container text-center"><p><font class="bigdata">[ 2023-12-10 - 16:34 ]</font><br><font class="user">MacOS (m3u8 update) has done a update</font></p></div><br>
 
 <br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> manar </font>
 <a href="https://www.elahmad.com/tv/almanartv.php"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
