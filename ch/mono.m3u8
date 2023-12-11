@@ -7,7 +7,7 @@ https://e2.manar.live:9000/live/tracks-v1a1/mono.m3u8
 https://live.alittihad.tv:444/ittihad/index.m3u8
 
 #EXTINF:-2 tvg-id="al_jadeed" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Al_Jadeed.PNG",Al Jadeed
-https://cdn1.ipslow.com/tv491_www.elahmad.com_aljadeed/index.m3u8?token=6880e04d34fa780d1109fe86ef6dbd0037a00a1b-637f8308dd098a50896df4f29f38b58b-1702310559-1702299759
+https://cdn1.ipslow.com/tv492_www.elahmad.com_aljadeed/tracks-v1a1/mono.m3u8?token=33f2e2f2e66478083442f28346e60d3beec1aa73-32285d488b9944b54f7005cdad617234-1702331939-1702321139
 
 #EXTINF:-2 tvg-id="jazeera_arabic" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0f/Al_Jazeera.svg/1200px-Al_Jazeera.svg.png",Jazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
@@ -16,25 +16,25 @@ https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 
 #EXTINF:-2 tvg-id="lbci" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LBCI_HD_logo.png/640px-LBCI_HD_logo.png",LBCI
-https://cdn1.ipslow.com/tv491_www.elahmad.com_lbc/index.m3u8?token=220c83db913ea7a1bd102586c9c3f50476964107-e05a524835d2125756a33259659b19c8-1702310577-1702299777
+https://cdn1.ipslow.com/tv492_www.elahmad.com_lbc/tracks-v1a1/mono.m3u8?token=da4134d2a311640f4f10f9ad5538b18e021b2f16-860cbed00c3f19b843fd0312afbf5e7c-1702331948-1702321148
 
 #EXTINF:-2 tvg-id="mayadeen" group-title="ARABIC" tvg-logo="https://ewsat.com/img/AL_MAYADEEN.png",Mayadeen
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b3000000_t64NTQwcA==.m3u8
 
 #EXTINF:-2 tvg-id="mtv" group-title="ARABIC" tvg-logo="https://lebanon.mom-gmr.org/uploads/tx_lfrogmom/media/14023-1409_import.png",MTV
-https://cdn1.ipslow.com/tv491_www.elahmad.com_mtv_lebanon/index.m3u8?token=104bda3fdeb7295859f8df2d4db2424af7c99240-b49e1e6b9e1d423f06b1e674442f5b50-1702310586-1702299786
+https://cdn1.ipslow.com/tv492_www.elahmad.com_mtv_lebanon/tracks-v1a1/mono.m3u8?token=215d0b1e528dfba3cc2b83c66d7c244cb3b514ba-c83628be53e9e01ba7cff8929ea8afb3-1702331957-1702321157
 
 #EXTINF:-2 tvg-id="mustakbal" group-title="ARABIC" tvg-logo="https://play-lh.googleusercontent.com/qbh5ly7m0BBY7aY0EyrkGP0tgjvFfu1Edz1u8Xmr0ZWtWAue4m-79i9c1TNfNZVpLA=w240-h480-rw",Mustakbal
-https://cdn1.ipslow.com/tv491_www.elahmad.com_future/index.m3u8?token=8869f5a7d256ead0e3083897b21dfb96f9d19218-60f33511a8f9608425f8a6be43126d91-1702310595-1702299795
+https://cdn1.ipslow.com/tv492_www.elahmad.com_future/index.m3u8?token=fa6f5b9fe576fffd460332a81ed47866f7e697f3-9b484118c9d411b2e6816ae7b763ec0f-1702331967-1702321167
 
 #EXTINF:-2 tvg-id="natgeo" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Nat_geo_channel_abu_dhabi.png",National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?adtv
 
 #EXTINF:-2 tvg-id="nbn" group-title="ARABIC" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/NBN-logo.png",NBN
-https://cdn1.ipslow.com/tv491_www.elahmad.com_nbn/index.m3u8?token=71bd9ce54301467cc5d45f34fb1892c1a41e2846-3ca21e934cbbe906250ec2bf415d5e46-1702310604-1702299804
+https://cdn1.ipslow.com/tv492_www.elahmad.com_nbn/index.m3u8?token=e2fcdbc14eb2e4bfee1aacae39f166f32d1bad89-0d476526dd6fe3e5fe9a8e1df919c3e5-1702331976-1702321176
 
 #EXTINF:-2 tvg-id="otv" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/OTV_%28logo%29.svg/2560px-OTV_%28logo%29.svg.png",OTV
-https://cdn1.ipslow.com/tv491_www.elahmad.com_otv_lebanon/index.m3u8?token=c9e121b8a057be0025f9cc0e55f6b09535e91b01-b4600d793a39f546956b1c37a00f9af2-1702310613-1702299813
+https://cdn1.ipslow.com/tv492_www.elahmad.com_otv_lebanon/index.m3u8?token=052442997c8133ff9b45cf4544a360122f303813-7f93bfb9a06d1851c532219ee7561303-1702331985-1702321185
 
 #EXTINF:-2 tvg-id="dw_arab" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png",DW Arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8
@@ -65,10 +65,10 @@ https://shls-masr2-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/inde
 http://multies.xyz/live/68BA1E5E2B26F84339925A947BF1BBEB/135.m3u8
 
 #EXTINF:-6 tvg-id="mbc_action" group-title="ARABIC" tvg-logo="https://iconape.com/wp-content/png_logo_vector/%D8%B4%D8%B9%D8%A7%D8%B1-mbc-action.png",MBC Action
-http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8
+http://multies.xyz/live/68BA1E5E2B26F84339925A947BF1BBEB/133.m3u8
 
 #EXTINF: -2 tvg-id="mbc_variety" group-title="ARABIC" tvg-logo="https://raw.githubusercontent.com/bebawy6/TVLogos/master/MBC-Variety.png",MBC Variety+
-https://cdn1.ipslow.com/tv491_www.elahmad.com_mbc_variety/index.m3u8?token=cbadbe25ef07be20a868b6f7465a181ba9638d4c-68bf53b8bbf6a09e646b3b72e87b630e-1702310651-1702299851
+https://cdn1.ipslow.com/tv492_www.elahmad.com_mbc_variety/index.m3u8?token=dde690abf57cf116c2461c31373a3e1519fea012-ab0abfe7e04e66f9215e275d4f9e525f-1702332028-1702321228
 
 #EXTINF:-2 tvg-id="mbc_drama" group-title="ARABIC" tvg-logo="https://seeklogo.com/images/M/mbc-drama-logo-2EE963647C-seeklogo.com.png",MBC Drama
 https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_20.m3u8
@@ -105,7 +105,7 @@ https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_2.m3u8
 https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_3.m3u8
 
 #EXTINF:-2 tvg-id="ads1" group-title="SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Abudhabisports2015.png/revision/latest?cb=20200428142713", AD Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+
 
 #EXTINF:-2 tvg-id="ads2" group-title="SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Abudhabisports2015.png/revision/latest?cb=20200428142713", AD Sports 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
