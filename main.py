@@ -171,8 +171,7 @@ def mbc2():
   tvgid='mbc2' #nome canale
   #stream="https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc2_tv_1" #elahmad
   stream="http://live.multies.net/ent-ch/mbc-ch/mbc2/" #live.multies.net
-
-  link_m3u8="" 
+  link_m3u8="http://212.102.58.251:8080/live/Nroa0AohHn/z3d8ZHNBWt/191.m3u8" 
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
 
 def mbc3():
@@ -200,7 +199,7 @@ def mbcmax():
   file='ch/mbc.m3u8'
   tvgid='mbc_max' #nome canale
   #stream="https://www.elahmad.com/tv/watchtv.php?id=mbc_max" #elahmad 
-  stream="http://multies.xyz/live/68BA1E5E2B26F84339925A947BF1BBEB/135.m3u8" #live.multies.net 
+  stream="http://live.multies.net/ent-ch/mbc-ch/mbc-max/" #live.multies.net 
   link_m3u8="http://multies.xyz/live/68BA1E5E2B26F84339925A947BF1BBEB/135.m3u8"
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
 
@@ -209,7 +208,7 @@ def mbcaction():
   tvgid='mbc_action' #nome canale
   #stream="https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbcaction_tv_1" #elahmad
   stream="http://live.multies.net/ent-ch/mbc-ch/mbc-action/" #live.multies.net 
-  link_m3u8=""
+  link_m3u8="http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8"
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
 
 def mbcvariety():
@@ -325,7 +324,7 @@ def rhd():
   file='ch/rotana.m3u8'
   tvgid='hd+' #nome canale
   stream="https://www.elahmad.com/tv/live/live_stream.php?id=rotana_hd_plus" #link pagina da cui estrarre 
-  link_m3u8=""
+  link_m3u8="https://playback2.akamaized.net/streams/29325975_9091635_lsik6fsyv9ueokqwpim_1/exp=1702415992~acl=%2f*~data=hdntl~hmac=ea922cd42c8a4b94364571a25442a7ee3b3ae9d8bdb71133f7059a54600ff5ca/media/29325975_9091635_lsik6fsyv9ueokqwpim_1@5256000p.m3u8?dw=80&ts=1702328400"
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
 
 def comedy():
