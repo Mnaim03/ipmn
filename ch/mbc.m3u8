@@ -6,6 +6,10 @@ https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index
 #EXTINF:-6 tvg-id="mbc2" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png",MBC 2
 http://212.102.58.251:8080/live/Nroa0AohHn/z3d8ZHNBWt/191.m3u8
 
+#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="ARABIC",NAME="MBC 2 (Low)",AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2",VIDEO="low"
+http://212.102.58.251:8080/live/Nroa0AohHn/z3d8ZHNBWt/191.m3u8
+
 #EXTINF:-2 tvg-id="mbc3" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MBC_3_Transparent_Background_Logo.png/480px-MBC_3_Transparent_Background_Logo.png",MBC 3
 https://mbc3-eur-prod-dub-ak.akamaized.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_1.m3u8
 

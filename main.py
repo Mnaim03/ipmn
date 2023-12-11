@@ -152,7 +152,7 @@ def film_arab3():
 def comedy_arab():
   file='ch/arab.m3u8'
   tvgid='comedyarab'
-  stream="http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/793.m3u8" #live.multies.net
+  stream="http://live.multies.net/ent-ch/movies-ch/multies-comedy/" #live.multies.net
   link_m3u8="http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/793.m3u8"
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i]) 
 

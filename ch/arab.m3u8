@@ -42,6 +42,8 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/strea
 #EXTINF:-6 tvg-id="dai3a" group-title="SPECIAL ARABIC" tvg-logo="https://lh3.googleusercontent.com/i2ETFKv0k7XBu8GvTsPcWiIsP6dVuMOKm_kaExAkAKta8Sjd1QHx3s6sTZPRjuwDqQ", ضيعة ضايعة
 http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/728.m3u8
 
+
+
 #EXTINF:-6 tvg-id="chirba" group-title="SPECIAL ARABIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHR7sQ4WKPXgX8uZtJFDP_lqFNcjQYEU7ZHA&usqp=CAU", الخربة
 http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/794.m3u8
 
@@ -60,7 +62,7 @@ http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/751.m3u8
 #EXTINF:-6 tvg-id="filmarab3" group-title="SPECIAL ARABIC" tvg-logo="https://static.vecteezy.com/system/resources/previews/011/720/979/non_2x/cinema-tickets-with-pop-corn-drink-amd-glasses-free-png.png", 3 مولتيز سينما 
 http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/752.m3u8
 
-#EXTINF:-6 tvg-id="comedyaraab" group-title="SPECIAL ARABIC" tvg-logo="https://static.vecteezy.com/system/resources/previews/011/720/979/non_2x/cinema-tickets-with-pop-corn-drink-amd-glasses-free-png.png", قناة كوميدي
+#EXTINF:-6 tvg-id="comedyarab" group-title="SPECIAL ARABIC" tvg-logo="https://static.vecteezy.com/system/resources/previews/011/720/979/non_2x/cinema-tickets-with-pop-corn-drink-amd-glasses-free-png.png", قناة كوميدي
 http://
 
 
