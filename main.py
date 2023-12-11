@@ -111,7 +111,7 @@ def chirba():
   file='ch/arab.m3u8'
   tvgid='chirba' #nome canale
   stream="http://live.multies.net/livetv/al-khirba/" #live.multies.net
-  link_m3u8="http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/794.m3u8"
+  link_m3u8="http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/727.m3u8"
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
 
 def alab():
