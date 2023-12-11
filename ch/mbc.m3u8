@@ -22,7 +22,7 @@ http://multies.xyz/live/68BA1E5E2B26F84339925A947BF1BBEB/135.m3u8
 http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8
 
 #EXTINF: -2 tvg-id="mbc_variety" group-title="ARABIC" tvg-logo="https://raw.githubusercontent.com/bebawy6/TVLogos/master/MBC-Variety.png",MBC Variety+
-https://cdn1.ipslow.com/tv492_www.elahmad.com_mbc_variety/tracks-v1a1/mono.m3u8?token=a1522f2bdb755da4b120dd60b7d58970acae412b-b61ac6839593fea93fe58800bd7f1a1c-1702340298-1702329498
+https://cdn1.ipslow.com/tv492_www.elahmad.com_mbc_variety/tracks-v1a1/mono.m3u8?token=3f00c46111408123f5f84058824cef977e52d159-f1834dd06681544786cbec509ac41808-1702342227-1702331427
 
 #EXTINF:-2 tvg-id="mbc_drama" group-title="ARABIC" tvg-logo="https://seeklogo.com/images/M/mbc-drama-logo-2EE963647C-seeklogo.com.png",MBC Drama
 https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_20.m3u8
@@ -30,5 +30,5 @@ https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index
 #EXTINF:-2 tvg-id="mbc_masr" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png",MBC Masr
 https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_29.m3u8
 
-#EXTINF:-6 tvg-id="mix" group-title="ARABIC" tvg-logo="https://media0029.elcinema.com/tvguide/1371_1.png",MIX Films
-http://multies.xyz/live/741173B18278973CC222794CE9FA7C15/167.m3u8
+#EXTINF:-6 tvg-id="dubaione" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Onetv_Logo_UAE.png",Dubai One Films
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8

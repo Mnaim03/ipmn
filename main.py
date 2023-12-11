@@ -232,11 +232,11 @@ def mbcmasr():
   link_m3u8="https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_29.m3u8"
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
 
-def mix():
+def dubai_one():
   file='ch/mbc.m3u8'
-  tvgid='mix' #nome canale
-  stream="http://live.multies.net/ent-ch/movies-ch/mix-tv/" #live.multies.net 
-  link_m3u8="http://multies.xyz/live/741173B18278973CC222794CE9FA7C15/167.m3u8"
+  tvgid='dubaione' #nome canale
+  stream="http://live.multies.net/ar-gulf-ch/uae-ch/dubai-one/" #live.multies.net 
+  link_m3u8="http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8"
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
 
 
@@ -371,7 +371,7 @@ mbcaction()
 mbcvariety()
 mbcdrama()
 mbcmasr()
-mix()
+dubai_one()
 
 bein1()
 bein2()
@@ -385,5 +385,5 @@ ads1()
 ads2()
 
 cinema()
-#rhd()
+rhd()
 comedy()

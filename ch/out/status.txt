@@ -1,5 +1,5 @@
 
-<div class="content container text-center"><p><font class="bigdata">[ 2023-12-11 - 22:22 ]</font><br><font class="user">MacOS (m3u8 update) has done a update</font></p></div><br>
+<div class="content container text-center"><p><font class="bigdata">[ 2023-12-11 - 22:54 ]</font><br><font class="user">MacOS (m3u8 update) has done a update</font></p></div><br>
 
 <br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> manar </font>
 <a href="https://www.elahmad.com/tv/almanartv.php"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
@@ -94,8 +94,8 @@
 <br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> mbc_masr </font>
 <a href="https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbcmasr_tv_1"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
-<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> mix </font>
-<a href="http://live.multies.net/ent-ch/movies-ch/mix-tv/"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
+<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> dubaione </font>
+<a href="http://live.multies.net/ar-gulf-ch/uae-ch/dubai-one/"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
 <br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> bein1 </font>
 <a href="https://www.elahmad.com/tv/mobiletv/glarb.php?id=bein_m_1"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
@@ -129,6 +129,9 @@
 
 <br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> cinema </font>
 <a href="https://www.elahmad.com/tv/watchtv.php?id=rotana_cinema"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
+
+<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> hd+ </font>
+<a href="https://www.elahmad.com/tv/live/live_stream.php?id=rotana_hd_plus"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
 
 <br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> comedy </font>
 <a href="https://www.elahmad.com/tv/watchtv.php?id=rotana_comedy"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
