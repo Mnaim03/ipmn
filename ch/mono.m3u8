@@ -39,11 +39,31 @@ https://cdn1.ipslow.com/tv492_www.elahmad.com_otv_lebanon/index.m3u8?token=05244
 #EXTINF:-2 tvg-id="dw_arab" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png",DW Arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8
 
-#EXTINF:-6 tvg-id="dai3a" group-title="ARABIC" tvg-logo="https://lh3.googleusercontent.com/i2ETFKv0k7XBu8GvTsPcWiIsP6dVuMOKm_kaExAkAKta8Sjd1QHx3s6sTZPRjuwDqQ", ضيعة ضايعة
+#EXTINF:-6 tvg-id="dai3a" group-title="SPECIAL ARABIC" tvg-logo="https://lh3.googleusercontent.com/i2ETFKv0k7XBu8GvTsPcWiIsP6dVuMOKm_kaExAkAKta8Sjd1QHx3s6sTZPRjuwDqQ", ضيعة ضايعة
 http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/728.m3u8
 
-#EXTINF:-6 tvg-id="chirba" group-title="ARABIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHR7sQ4WKPXgX8uZtJFDP_lqFNcjQYEU7ZHA&usqp=CAU", الخربة
+#EXTINF:-6 tvg-id="chirba" group-title="SPECIAL ARABIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHR7sQ4WKPXgX8uZtJFDP_lqFNcjQYEU7ZHA&usqp=CAU", الخربة
 http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/794.m3u8
+
+#EXTINF:-6 tvg-id="alab" group-title="SPECIAL ARABIC" tvg-logo="http://live.multies.net/wp-content/uploads/2023/09/the-game-1.jpg", اللعبة
+http://
+
+#EXTINF:-6 tvg-id="adel_karam" group-title="SPECIAL ARABIC" tvg-logo="https://m.gomhuriaonline.com/Upload/News/12-11-2021_00_34_26_GomhuriaOnline_311636670066.jpg", الزعيم عادل إمام
+http://
+
+#EXTINF:-6 tvg-id="film_arab" group-title="SPECIAL ARABIC" tvg-logo="https://static.vecteezy.com/system/resources/previews/011/720/979/non_2x/cinema-tickets-with-pop-corn-drink-amd-glasses-free-png.png", مولتيز سينما 
+http://
+
+#EXTINF:-6 tvg-id="film_arab2" group-title="SPECIAL ARABIC" tvg-logo="https://static.vecteezy.com/system/resources/previews/011/720/979/non_2x/cinema-tickets-with-pop-corn-drink-amd-glasses-free-png.png", 2 مولتيز سينما 
+http://
+
+#EXTINF:-6 tvg-id="film_arab3" group-title="SPECIAL ARABIC" tvg-logo="https://static.vecteezy.com/system/resources/previews/011/720/979/non_2x/cinema-tickets-with-pop-corn-drink-amd-glasses-free-png.png", 3 مولتيز سينما 
+http://
+
+#EXTINF:-6 tvg-id="comedy_araab" group-title="SPECIAL ARABIC" tvg-logo="https://static.vecteezy.com/system/resources/previews/011/720/979/non_2x/cinema-tickets-with-pop-corn-drink-amd-glasses-free-png.png", قناة كوميدي
+http://
+
+
 
 
 #EXTINF:-2 tvg-id="mbc1" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/640px-Mbc1logo.png",MBC 1

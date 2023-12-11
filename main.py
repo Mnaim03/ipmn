@@ -110,9 +110,52 @@ def dai3a():
 def chirba():
   file='ch/arab.m3u8'
   tvgid='chirba' #nome canale
-  stream="http://live.multies.net/ent-ch/movies-ch/alzaeem-tv/" #live.multies.net
+  stream="http://live.multies.net/livetv/al-khirba/" #live.multies.net
   link_m3u8="http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/794.m3u8"
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i])
+
+def alab()
+  file='ch/arab.m3u8'
+  tvgid='alab' #nome canale
+  stream="http://live.multies.net/ent-ch/series-ch/el-leaba/" #live.multies.net
+  link_m3u8="http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/788.m3u8"
+  subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i]) 
+
+def adel_karam()
+   file='ch/arab.m3u8'
+  tvgid='adel_karam' #nome canale
+  stream="http://live.multies.net/ent-ch/movies-ch/alzaeem-tv/" #live.multies.net
+  link_m3u8="http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/794.m3u8"
+  subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i]) 
+
+def film_arab()
+   file='ch/arab.m3u8'
+  tvgid='film_arab' #nome canale
+  stream="http://live.multies.net/ent-ch/movies-ch/multies-cinema/" #live.multies.net
+  link_m3u8="http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/792.m3u8"
+  subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i]) 
+
+def film_arab2()
+   file='ch/arab.m3u8'
+  tvgid='film_arab2' #nome canale
+  stream="http://live.multies.net/ent-ch/movies-ch/multies-aflam1/" #live.multies.net
+  link_m3u8="http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/751.m3u8"
+  subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i]) 
+
+def film_arab3()
+   file='ch/arab.m3u8'
+  tvgid='film_arab3' #nome canale
+  stream="http://live.multies.net/ent-ch/movies-ch/multies-aflam2/" #live.multies.net
+  link_m3u8="http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/752.m3u8"
+  subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i]) 
+
+def comedy_arab()
+   file='ch/arab.m3u8'
+  tvgid='comedy_arab' #nome canale
+  stream="http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/793.m3u8" #live.multies.net
+  link_m3u8="http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/793.m3u8"
+  subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i]) 
+
 
 
 
@@ -312,6 +355,12 @@ otv()
 dwarab()
 dai3a()
 chirba()
+alab()
+adel_karam()
+film_arab()
+film_arab2()
+film_arab3()
+comedy_arab()
 
 mbc1()
 mbc2()
