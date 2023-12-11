@@ -130,28 +130,28 @@ def adel_karam():
 
 def film_arab():
    file='ch/arab.m3u8'
-  tvgid='film_arab' #nome canale
+  tvgid='film_arab' 
   stream="http://live.multies.net/ent-ch/movies-ch/multies-cinema/" #live.multies.net
   link_m3u8="http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/792.m3u8"
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i]) 
 
 def film_arab2():
    file='ch/arab.m3u8'
-  tvgid='film_arab2' #nome canale
+  tvgid='film_arab2' 
   stream="http://live.multies.net/ent-ch/movies-ch/multies-aflam1/" #live.multies.net
   link_m3u8="http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/751.m3u8"
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i]) 
 
 def film_arab3():
    file='ch/arab.m3u8'
-  tvgid='film_arab3' #nome canale
+  tvgid='film_arab3' 
   stream="http://live.multies.net/ent-ch/movies-ch/multies-aflam2/" #live.multies.net
   link_m3u8="http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/752.m3u8"
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i]) 
 
 def comedy_arab():
    file='ch/arab.m3u8'
-  tvgid='comedy_arab' #nome canale
+  tvgid='comedy_arab' 
   stream="http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/793.m3u8" #live.multies.net
   link_m3u8="http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/793.m3u8"
   subprocess.run(["./ch_call.sh", file, tvgid, link_m3u8, stream, i]) 
