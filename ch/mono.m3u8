@@ -7,7 +7,7 @@ https://e2.manar.live:9000/live/tracks-v1a1/mono.m3u8
 https://live.alittihad.tv:444/ittihad/index.m3u8
 
 #EXTINF:-2 tvg-id="al_jadeed" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Al_Jadeed.PNG",Al Jadeed
-https://cdn1.ipslow.com/tv491_www.elahmad.com_aljadeed/tracks-v1a1/mono.m3u8?token=3abc5aeacb0fb684aa6fc2e747867ebb064387f8-52e1f58a85f6fd542e82582b85d0da40-1702248970-1702238170
+https://cdn1.ipslow.com/tv491_www.elahmad.com_aljadeed/index.m3u8?token=459b80710a4737e81e1ad9a6e30c655094dfeaca-c4b9931999d117140ee51e6261d0c658-1702284489-1702273689
 
 #EXTINF:-2 tvg-id="jazeera_arabic" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0f/Al_Jazeera.svg/1200px-Al_Jazeera.svg.png",Jazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
@@ -16,25 +16,25 @@ https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 
 #EXTINF:-2 tvg-id="lbci" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LBCI_HD_logo.png/640px-LBCI_HD_logo.png",LBCI
-https://cdn1.ipslow.com/tv491_www.elahmad.com_lbc/index.m3u8?token=f9f99d11c8b0df8f1a962d5dd16bf0cea5a8bfb7-e57116e58c2b094c9011583cd73b7ea5-1702248980-1702238180
+https://cdn1.ipslow.com/tv491_www.elahmad.com_lbc/index.m3u8?token=87c77dc7d034305b36484d051c4875cd3a943929-5b0c2d4d05c50bfb0a3b408e3cd5b777-1702284498-1702273698
 
 #EXTINF:-2 tvg-id="mayadeen" group-title="ARABIC" tvg-logo="https://ewsat.com/img/AL_MAYADEEN.png",Mayadeen
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b3000000_t64NTQwcA==.m3u8
 
 #EXTINF:-2 tvg-id="mtv" group-title="ARABIC" tvg-logo="https://lebanon.mom-gmr.org/uploads/tx_lfrogmom/media/14023-1409_import.png",MTV
-https://cdn1.ipslow.com/tv491_www.elahmad.com_mtv_lebanon/index.m3u8?token=2b5dbc46d5a95e23937cd64e117f7780a0c2b907-76104dd2c912b0292e58eadded09935c-1702248991-1702238191
+https://cdn1.ipslow.com/tv491_www.elahmad.com_mtv_lebanon/index.m3u8?token=850b5d48f3d202525ed5d23d5264fee57e176146-73773f5d5d5b93e8a7904b02282dc6bf-1702284507-1702273707
 
 #EXTINF:-2 tvg-id="mustakbal" group-title="ARABIC" tvg-logo="https://play-lh.googleusercontent.com/qbh5ly7m0BBY7aY0EyrkGP0tgjvFfu1Edz1u8Xmr0ZWtWAue4m-79i9c1TNfNZVpLA=w240-h480-rw",Mustakbal
-https://cdn1.ipslow.com/tv491_www.elahmad.com_future/index.m3u8?token=eb79236362873f296f917d4ab72c26014923fadb-5f0ec5acb19b5587ba161334e267c67d-1702249000-1702238200
+https://cdn1.ipslow.com/tv491_www.elahmad.com_future/index.m3u8?token=2ca1e01ad22ae824d32698acb21789a053bd539c-d26a74c9e5a9f9a359f6d2c9121df462-1702284518-1702273718
 
 #EXTINF:-2 tvg-id="natgeo" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Nat_geo_channel_abu_dhabi.png",National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?adtv
 
 #EXTINF:-2 tvg-id="nbn" group-title="ARABIC" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/NBN-logo.png",NBN
-https://cdn1.ipslow.com/tv491_www.elahmad.com_nbn/index.m3u8?token=87cebac365a7fb6989c9340732ef8ce9c13a12b8-b05d75050b76024fce29ffde77ea2725-1702249012-1702238212
+https://cdn1.ipslow.com/tv491_www.elahmad.com_nbn/index.m3u8?token=b734feb4687205fb43ce888495a6b8e03033444a-c51ce4ec27817ddabc4997b11769b754-1702284527-1702273727
 
 #EXTINF:-2 tvg-id="otv" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/OTV_%28logo%29.svg/2560px-OTV_%28logo%29.svg.png",OTV
-https://cdn1.ipslow.com/tv491_www.elahmad.com_otv_lebanon/tracks-v1a1/mono.m3u8?token=dcff4186b69e1e7ffea44595b7d779497afbf15a-26335b5e783462e5620863067c8f8c97-1702249021-1702238221
+https://cdn1.ipslow.com/tv491_www.elahmad.com_otv_lebanon/tracks-v1a1/mono.m3u8?token=e88e79ac0454f2be1909b53a30ca1c3485a69ab7-d6b8269d5e1f02e4deb0424b419b1ec3-1702284536-1702273736
 
 #EXTINF:-2 tvg-id="dw_arab" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png",DW Arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8
@@ -43,7 +43,7 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/strea
 http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/728.m3u8
 
 #EXTINF:-6 tvg-id="chirba" group-title="ARABIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHR7sQ4WKPXgX8uZtJFDP_lqFNcjQYEU7ZHA&usqp=CAU", الخربة
-http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/727.m3u8
+http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/794.m3u8
 
 
 #EXTINF:-2 tvg-id="mbc1" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/640px-Mbc1logo.png",MBC 1
@@ -65,10 +65,10 @@ https://shls-masr2-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/inde
 http://multies.xyz/live/68BA1E5E2B26F84339925A947BF1BBEB/135.m3u8
 
 #EXTINF:-6 tvg-id="mbc_action" group-title="ARABIC" tvg-logo="https://iconape.com/wp-content/png_logo_vector/%D8%B4%D8%B9%D8%A7%D8%B1-mbc-action.png",MBC Action
-http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8
+http://multies.xyz/live/68BA1E5E2B26F84339925A947BF1BBEB/133.m3u8
 
 #EXTINF: -2 tvg-id="mbc_variety" group-title="ARABIC" tvg-logo="https://raw.githubusercontent.com/bebawy6/TVLogos/master/MBC-Variety.png",MBC Variety+
-https://cdn1.ipslow.com/tv491_www.elahmad.com_mbc_variety/tracks-v1a1/mono.m3u8?token=e45579d7010aac12de41502354298ab309845323-e36142637c34900cd26b8760a720b159-1702249061-1702238261
+https://cdn1.ipslow.com/tv491_www.elahmad.com_mbc_variety/tracks-v1a1/mono.m3u8?token=4c0cf50322e2ef121cd80a8ed9db10ca95c5a77c-b593d19a92447e2afb09a00f7a05c0cb-1702284577-1702273777
 
 #EXTINF:-2 tvg-id="mbc_drama" group-title="ARABIC" tvg-logo="https://seeklogo.com/images/M/mbc-drama-logo-2EE963647C-seeklogo.com.png",MBC Drama
 https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_20.m3u8
@@ -105,7 +105,7 @@ https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_2.m3u8
 https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_3.m3u8
 
 #EXTINF:-2 tvg-id="ads1" group-title="SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Abudhabisports2015.png/revision/latest?cb=20200428142713", AD Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 
 #EXTINF:-2 tvg-id="ads2" group-title="SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Abudhabisports2015.png/revision/latest?cb=20200428142713", AD Sports 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
