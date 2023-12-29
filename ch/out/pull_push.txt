@@ -124,3 +124,5 @@
 <p class="txtlog">🔽PUSH <font class="smalldata">[ 2023-12-21 - 21:22 ]</font>:MacOS (m3u8 update)</p><br>
 <br><p class="txtlog">🔼PULL <font class="smalldata">[ 2023-12-28 - 14:25 ]</font>:MacOS (m3u8 update)</p>
 <p class="txtlog">🔽PUSH <font class="smalldata">[ 2023-12-28 - 14:28 ]</font>:MacOS (m3u8 update)</p><br>
+<br><p class="txtlog">🔼PULL <font class="smalldata">[ 2023-12-29 - 09:43 ]</font>:MacOS (m3u8 update)</p>
+<p class="txtlog">🔽PUSH <font class="smalldata">[ 2023-12-29 - 09:47 ]</font>:MacOS (m3u8 update)</p><br>
