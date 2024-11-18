@@ -1,5 +1,5 @@
 
-<div class="content container text-center"><p><font class="bigdata">[ 2023-12-29 - 09:43 ]</font><br><font class="user">MacOS (m3u8 update) has done a update</font></p></div><br>
+<div class="content container text-center"><p><font class="bigdata">[ 2024-04-08 - 21:02 ]</font><br><font class="user">MacOS (m3u8 update) has done a update</font></p></div><br>
 
 <br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> manar </font>
 <a href="https://www.elahmad.com/tv/almanartv.php"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
@@ -117,24 +117,3 @@
 
 <br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> ssc1 </font>
 <a href="https://ayas.ir/sp/ayasktv.php?link=https://af.ayassport.ir/hls2/ssc1.m3u8&title=Ayas%20sport"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
-
-<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> ssc2 </font>
-<a href="https://www.elahmad.com/tv/mobiletv/glarb.php?id=ssc_sports_2"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
-
-<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> ssc3 </font>
-<a href="https://www.elahmad.com/tv/mobiletv/glarb.php?id=ssc_sports_3"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
-
-<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> ads1 </font>
-<a href="https://www.elahmad.com/tv/mobiletv/glarb.php?id=abudhabi_sports1"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
-
-<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> ads2 </font>
-<a href="https://www.elahmad.com/tv/mobiletv/glarb.php?id=abudhabi_sports2"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
-
-<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> cinema </font>
-<a href="https://www.elahmad.com/tv/watchtv.php?id=rotana_cinema"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
-
-<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> hd+ </font>
-<a href="https://www.elahmad.com/tv/live/live_stream.php?id=rotana_hd_plus"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
-
-<br><br><div class="content container text-center"><p class="h7"><font class="channel h2"> comedy </font>
-<a href="https://www.elahmad.com/tv/watchtv.php?id=rotana_comedy"><button type="button" class="btn btn-success btnlink">ESTAZIONE m3u8 ESEGUITA(✓)</button></a></p></div>
